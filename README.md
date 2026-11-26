@@ -4,6 +4,8 @@ Code, trained model and result files for the paper
 **"Calibrated Identification of Trap–Trap Coupling in Multi-Trap Random Telegraph Noise"** (submitted to IEEE I2MTC 2027).
 The manuscript itself is not part of this repository.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24556035.svg)](https://doi.org/10.5281/zenodo.24556035)
+
 A coupling claim in multi-trap random telegraph noise (RTN) is treated as a measurement with a stated
 false-positive rate and power. The pipeline is divided:
 
@@ -19,7 +21,8 @@ replicated on a second record give FPR 3/100 (3.0 %) at power 0.41. On a measure
 -> AI loopback, 130 records, pre-registered in `experiments/r46_loopback_design.md`) the two-trap test gives FPR 2/40
 and detects 27/30, 29/30 and 29/30 records at J = +1, +2 and -1 k_BT.
 
-The code and results used for the I2MTC 2027 submission are release `i2mtc-v15`.
+The code and results used for the I2MTC 2027 submission are release `i2mtc-v15`, archived on Zenodo:
+doi:10.5281/zenodo.24556035 (all versions), doi:10.5281/zenodo.24556036 (`i2mtc-v15`).
 
 Not used in the paper: a score statistic for simultaneous two-trap transitions ("co-flips", `rtnsim/score.py`,
 `experiments/r36_joint.py`, `results/r36/`). It detects co-flips in simulation (0.94) but exceeded its nominal
@@ -100,3 +103,9 @@ Download the public datasets yourself and point the scripts to them:
 ## Licence
 
 Code: MIT (see `LICENSE`). Third-party datasets keep their own licences and are not included.
+
+## Citation
+
+See `CITATION.cff`. Until the paper is published, cite the software archive:
+S. Huh, *rtn-coupling-test: code and results for calibrated identification of trap–trap coupling in multi-trap RTN*,
+Zenodo, doi:10.5281/zenodo.24556035.
