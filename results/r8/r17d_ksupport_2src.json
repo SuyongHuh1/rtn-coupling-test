@@ -1,0 +1,1483 @@
+{
+ "summary": {
+  "n": 182,
+  "n_supported": 163,
+  "asym_fpr_all": 0.24175824175824176,
+  "asym_fpr_supported": 0.26993865030674846,
+  "asym_fpr_supported_resolvable": 0.2571428571428571,
+  "cal_n": 10,
+  "cal_fpr": 0.2,
+  "cal_n_supported": 9,
+  "cal_fpr_supported": 0.2222222222222222,
+  "cal_detail": [
+   [
+    "00201",
+    2.9,
+    0.075,
+    true
+   ],
+   [
+    "00202",
+    6981.7,
+    0.025,
+    true
+   ],
+   [
+    "00203",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00205",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00206",
+    236.1,
+    0.025,
+    true
+   ],
+   [
+    "00204",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00207",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00209",
+    3.8,
+    0.075,
+    true
+   ],
+   [
+    "00211",
+    707.6,
+    0.125,
+    true
+   ],
+   [
+    "00210",
+    0.0,
+    1.0,
+    false
+   ]
+  ],
+  "calbox_n": 9,
+  "calbox_fpr": 0.2222222222222222,
+  "calbox_n_supported": 8,
+  "calbox_fpr_supported": 0.25,
+  "calbox_detail": [
+   [
+    "00202",
+    6981.7,
+    0.025,
+    true
+   ],
+   [
+    "00203",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00205",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00206",
+    236.1,
+    0.025,
+    true
+   ],
+   [
+    "00204",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00207",
+    0.0,
+    1.0,
+    true
+   ],
+   [
+    "00209",
+    3.8,
+    0.15,
+    true
+   ],
+   [
+    "00211",
+    707.6,
+    0.625,
+    true
+   ],
+   [
+    "00210",
+    0.0,
+    1.0,
+    false
+   ]
+  ]
+ },
+ "rows": [
+  {
+   "rec": "mc00201_n05_dataset",
+   "bic_K": -125778.22876001033,
+   "bic_Km1": -106881.86108559367,
+   "min_step_snr": 3.3022322105979782,
+   "supported": true
+  },
+  {
+   "rec": "mc00203_n05_dataset",
+   "bic_K": -152404.39718116046,
+   "bic_Km1": -132138.78893255,
+   "min_step_snr": 10.394348397720606,
+   "supported": true
+  },
+  {
+   "rec": "mc00202_n05_dataset",
+   "bic_K": -130363.53472726702,
+   "bic_Km1": -111902.91810977482,
+   "min_step_snr": 6.747325700617183,
+   "supported": true
+  },
+  {
+   "rec": "mc00205_n05_dataset",
+   "bic_K": -152272.94763941213,
+   "bic_Km1": -145266.7112809294,
+   "min_step_snr": 13.505069715355964,
+   "supported": true
+  },
+  {
+   "rec": "mc00206_n05_dataset",
+   "bic_K": -151921.87935022212,
+   "bic_Km1": -129426.88076093726,
+   "min_step_snr": 25.032861741550953,
+   "supported": true
+  },
+  {
+   "rec": "mc00204_n05_dataset",
+   "bic_K": -157529.68908418185,
+   "bic_Km1": -151343.43679844838,
+   "min_step_snr": 5.695616335180646,
+   "supported": true
+  },
+  {
+   "rec": "mc00207_n05_dataset",
+   "bic_K": -153051.6916596007,
+   "bic_Km1": -144225.60547328828,
+   "min_step_snr": 2.483398460508863,
+   "supported": true
+  },
+  {
+   "rec": "mc00209_n05_dataset",
+   "bic_K": -139652.0030477197,
+   "bic_Km1": -34231.91625488795,
+   "min_step_snr": 26.659170731156557,
+   "supported": true
+  },
+  {
+   "rec": "mc00208_n05_dataset",
+   "bic_K": -153417.99963040208,
+   "bic_Km1": -152395.51543697808,
+   "min_step_snr": 3.060103762174979,
+   "supported": true
+  },
+  {
+   "rec": "mc00211_n05_dataset",
+   "bic_K": -147992.47385141335,
+   "bic_Km1": -130422.29999402614,
+   "min_step_snr": 12.459274637810049,
+   "supported": true
+  },
+  {
+   "rec": "mc00212_n05_dataset",
+   "bic_K": -123989.14080973246,
+   "bic_Km1": -106790.13228463329,
+   "min_step_snr": 9.545755097308403,
+   "supported": true
+  },
+  {
+   "rec": "mc00210_n05_dataset",
+   "bic_K": -157721.85841371678,
+   "bic_Km1": -155176.92406951362,
+   "min_step_snr": 0.06873845501295696,
+   "supported": false
+  },
+  {
+   "rec": "mc00213_n05_dataset",
+   "bic_K": -149534.7944314268,
+   "bic_Km1": -141394.01921125123,
+   "min_step_snr": 12.752631998616659,
+   "supported": true
+  },
+  {
+   "rec": "mc00215_n05_dataset",
+   "bic_K": -156429.24347681738,
+   "bic_Km1": -153048.76942707488,
+   "min_step_snr": 9.344613654806585,
+   "supported": true
+  },
+  {
+   "rec": "mc00216_n05_dataset",
+   "bic_K": -107479.73419187762,
+   "bic_Km1": -79663.01564070728,
+   "min_step_snr": 6.833162254439624,
+   "supported": true
+  },
+  {
+   "rec": "mc00217_n05_dataset",
+   "bic_K": -138492.15075183613,
+   "bic_Km1": -123696.29130992785,
+   "min_step_snr": 10.11973498210479,
+   "supported": true
+  },
+  {
+   "rec": "mc00218_n05_dataset",
+   "bic_K": -135606.9268003016,
+   "bic_Km1": -111232.69404817422,
+   "min_step_snr": 4.738375081286912,
+   "supported": true
+  },
+  {
+   "rec": "mc00214_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00220_n05_dataset",
+   "bic_K": -90212.63539191996,
+   "bic_Km1": -61904.360806764984,
+   "min_step_snr": 5.706840468430741,
+   "supported": true
+  },
+  {
+   "rec": "mc00219_n05_dataset",
+   "bic_K": -157866.75723838678,
+   "bic_Km1": -152605.1820869253,
+   "min_step_snr": 14.078950373032558,
+   "supported": true
+  },
+  {
+   "rec": "mc00222_n05_dataset",
+   "bic_K": -143701.88785056508,
+   "bic_Km1": -34324.653088565865,
+   "min_step_snr": 9.388712151594634,
+   "supported": true
+  },
+  {
+   "rec": "mc00221_n05_dataset",
+   "bic_K": -154961.67384502466,
+   "bic_Km1": -139922.60404779582,
+   "min_step_snr": 3.303693391791474,
+   "supported": true
+  },
+  {
+   "rec": "mc00223_n05_dataset",
+   "bic_K": -114828.19419501322,
+   "bic_Km1": -95454.57079587576,
+   "min_step_snr": 6.012078394705564,
+   "supported": true
+  },
+  {
+   "rec": "mc00224_n05_dataset",
+   "bic_K": -156409.01748072013,
+   "bic_Km1": -153738.6272572904,
+   "min_step_snr": 9.533967632975727,
+   "supported": true
+  },
+  {
+   "rec": "mc00225_n05_dataset",
+   "bic_K": -101286.91752921784,
+   "bic_Km1": 107587.05336203611,
+   "min_step_snr": 37.11288090198985,
+   "supported": true
+  },
+  {
+   "rec": "mc00226_n05_dataset",
+   "bic_K": -108030.64978622666,
+   "bic_Km1": -56710.24510914487,
+   "min_step_snr": 4.484467805150172,
+   "supported": true
+  },
+  {
+   "rec": "mc00227_n05_dataset",
+   "bic_K": -136655.19098860718,
+   "bic_Km1": -125836.73888040165,
+   "min_step_snr": 4.7264708891839815,
+   "supported": true
+  },
+  {
+   "rec": "mc00228_n05_dataset",
+   "bic_K": -153822.63888067944,
+   "bic_Km1": -149735.33819734043,
+   "min_step_snr": 1.053502855631551,
+   "supported": false
+  },
+  {
+   "rec": "mc00230_n05_dataset",
+   "bic_K": -153725.60135646793,
+   "bic_Km1": -93050.06835617562,
+   "min_step_snr": 4.038992805828638,
+   "supported": true
+  },
+  {
+   "rec": "mc00229_n05_dataset",
+   "bic_K": -156341.82872414787,
+   "bic_Km1": -155542.60278660172,
+   "min_step_snr": 1.7842398667027857,
+   "supported": true
+  },
+  {
+   "rec": "mc00231_n05_dataset",
+   "bic_K": -156741.53246993577,
+   "bic_Km1": -156364.8359038994,
+   "min_step_snr": 4.648497436074185,
+   "supported": true
+  },
+  {
+   "rec": "mc00232_n05_dataset",
+   "bic_K": -129286.75609284229,
+   "bic_Km1": -104855.69704780402,
+   "min_step_snr": 14.786522800244162,
+   "supported": true
+  },
+  {
+   "rec": "mc00234_n05_dataset",
+   "bic_K": -155850.69758745033,
+   "bic_Km1": -77854.32094656618,
+   "min_step_snr": 3.7127866908540454,
+   "supported": true
+  },
+  {
+   "rec": "mc00233_n05_dataset",
+   "bic_K": -154357.90142430447,
+   "bic_Km1": -149559.61521115818,
+   "min_step_snr": 13.029755968278156,
+   "supported": true
+  },
+  {
+   "rec": "mc00235_n05_dataset",
+   "bic_K": -145909.396857614,
+   "bic_Km1": -64171.592007578125,
+   "min_step_snr": 20.712983939352114,
+   "supported": true
+  },
+  {
+   "rec": "mc00236_n05_dataset",
+   "bic_K": -150274.894389541,
+   "bic_Km1": -146142.09874089196,
+   "min_step_snr": 2.359949009730239,
+   "supported": true
+  },
+  {
+   "rec": "mc00238_n05_dataset",
+   "bic_K": -157316.96394126525,
+   "bic_Km1": -137336.6981301086,
+   "min_step_snr": 6.409961440689409,
+   "supported": true
+  },
+  {
+   "rec": "mc00237_n05_dataset",
+   "bic_K": -145159.36646615254,
+   "bic_Km1": -129351.21230771454,
+   "min_step_snr": 9.591380124878143,
+   "supported": true
+  },
+  {
+   "rec": "mc00240_n05_dataset",
+   "bic_K": -142325.0450571333,
+   "bic_Km1": -135880.83242292097,
+   "min_step_snr": 8.078219788086242,
+   "supported": true
+  },
+  {
+   "rec": "mc00241_n05_dataset",
+   "bic_K": -157663.2152065946,
+   "bic_Km1": -154059.31343482703,
+   "min_step_snr": 13.050187913261158,
+   "supported": true
+  },
+  {
+   "rec": "mc00242_n05_dataset",
+   "bic_K": -155664.29260134802,
+   "bic_Km1": -151830.63903431082,
+   "min_step_snr": 15.391287170248459,
+   "supported": true
+  },
+  {
+   "rec": "mc00239_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00243_n05_dataset",
+   "bic_K": -156056.51744195266,
+   "bic_Km1": -153057.2702897542,
+   "min_step_snr": 8.545337795118435,
+   "supported": true
+  },
+  {
+   "rec": "mc00244_n05_dataset",
+   "bic_K": -156997.28158396087,
+   "bic_Km1": -153691.51658536406,
+   "min_step_snr": 1.3177510187965575,
+   "supported": true
+  },
+  {
+   "rec": "mc00245_n05_dataset",
+   "bic_K": -155993.77798335254,
+   "bic_Km1": -153209.18170561822,
+   "min_step_snr": 3.6738757979635994,
+   "supported": true
+  },
+  {
+   "rec": "mc00246_n05_dataset",
+   "bic_K": -156183.69475443353,
+   "bic_Km1": -147733.23047512217,
+   "min_step_snr": 8.18752937803377,
+   "supported": true
+  },
+  {
+   "rec": "mc00248_n05_dataset",
+   "bic_K": -155464.3584532634,
+   "bic_Km1": -153672.83667596977,
+   "min_step_snr": 2.6886211447375783,
+   "supported": true
+  },
+  {
+   "rec": "mc00247_n05_dataset",
+   "bic_K": -156070.9152301522,
+   "bic_Km1": -155143.37547678343,
+   "min_step_snr": 0.8096126323071897,
+   "supported": false
+  },
+  {
+   "rec": "mc00249_n05_dataset",
+   "bic_K": -147970.01731721457,
+   "bic_Km1": -133662.15706798964,
+   "min_step_snr": 13.271475918483521,
+   "supported": true
+  },
+  {
+   "rec": "mc00250_n05_dataset",
+   "bic_K": -151068.32730306004,
+   "bic_Km1": -146199.9529359507,
+   "min_step_snr": 6.9688244022373835,
+   "supported": true
+  },
+  {
+   "rec": "mc00251_n05_dataset",
+   "bic_K": -157194.2196627959,
+   "bic_Km1": -150148.56357079017,
+   "min_step_snr": 3.198780166305787,
+   "supported": true
+  },
+  {
+   "rec": "mc00252_n05_dataset",
+   "bic_K": -157372.7109003715,
+   "bic_Km1": -152457.4710418586,
+   "min_step_snr": 6.6083676566837095,
+   "supported": true
+  },
+  {
+   "rec": "mc00253_n05_dataset",
+   "bic_K": -152745.89295446157,
+   "bic_Km1": -27578.341026111004,
+   "min_step_snr": 11.506129956995643,
+   "supported": true
+  },
+  {
+   "rec": "mc00255_n05_dataset",
+   "bic_K": -156788.9673002481,
+   "bic_Km1": -156817.71266244404,
+   "min_step_snr": 2.7112196408042526,
+   "supported": false
+  },
+  {
+   "rec": "mc00254_n05_dataset",
+   "bic_K": -157716.99532182614,
+   "bic_Km1": -157747.32987056562,
+   "min_step_snr": 0.5711431668685594,
+   "supported": false
+  },
+  {
+   "rec": "mc00257_n05_dataset",
+   "bic_K": -151191.27382894268,
+   "bic_Km1": -33738.769059100356,
+   "min_step_snr": 18.380501793466713,
+   "supported": true
+  },
+  {
+   "rec": "mc00256_n05_dataset",
+   "bic_K": -153837.01725263958,
+   "bic_Km1": -146968.2862381892,
+   "min_step_snr": 10.718412478304211,
+   "supported": true
+  },
+  {
+   "rec": "mc00258_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00259_n05_dataset",
+   "bic_K": -157795.27153706359,
+   "bic_Km1": -157747.8925806043,
+   "min_step_snr": 9.201159516484804,
+   "supported": true
+  },
+  {
+   "rec": "mc00260_n05_dataset",
+   "bic_K": -158112.08917415998,
+   "bic_Km1": -158313.3337227163,
+   "min_step_snr": 0.401604692995285,
+   "supported": false
+  },
+  {
+   "rec": "mc00261_n05_dataset",
+   "bic_K": -157846.48111293686,
+   "bic_Km1": -157251.83232387062,
+   "min_step_snr": 0.023555962252856694,
+   "supported": false
+  },
+  {
+   "rec": "mc00262_n05_dataset",
+   "bic_K": -114495.18156683558,
+   "bic_Km1": -72449.26216561822,
+   "min_step_snr": 12.844963554762861,
+   "supported": true
+  },
+  {
+   "rec": "mc00263_n05_dataset",
+   "bic_K": -149078.18904202437,
+   "bic_Km1": -87823.17558949598,
+   "min_step_snr": 12.194613300620935,
+   "supported": true
+  },
+  {
+   "rec": "mc00265_n05_dataset",
+   "bic_K": -132814.01522448013,
+   "bic_Km1": -131046.35760745713,
+   "min_step_snr": 8.403594086694552,
+   "supported": true
+  },
+  {
+   "rec": "mc00264_n05_dataset",
+   "bic_K": -150174.80620160222,
+   "bic_Km1": -137550.16804919648,
+   "min_step_snr": 8.533101109662399,
+   "supported": true
+  },
+  {
+   "rec": "mc00267_n05_dataset",
+   "bic_K": -155641.50059072758,
+   "bic_Km1": -145896.2517914796,
+   "min_step_snr": 1.850648483703335,
+   "supported": true
+  },
+  {
+   "rec": "mc00268_n05_dataset",
+   "bic_K": -15798.959974133215,
+   "bic_Km1": -4733.345405020408,
+   "min_step_snr": 6.552985756751357,
+   "supported": true
+  },
+  {
+   "rec": "mc00266_n05_dataset",
+   "bic_K": -157359.4720837708,
+   "bic_Km1": -157376.1565928015,
+   "min_step_snr": 0.6658204469822177,
+   "supported": false
+  },
+  {
+   "rec": "mc00269_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00271_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00272_n05_dataset",
+   "bic_K": -153224.94251545466,
+   "bic_Km1": 59405.32650031914,
+   "min_step_snr": 31.593714808592694,
+   "supported": true
+  },
+  {
+   "rec": "mc00270_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00273_n05_dataset",
+   "bic_K": -152934.64371332165,
+   "bic_Km1": -152233.5532196514,
+   "min_step_snr": 2.7920527214480546,
+   "supported": true
+  },
+  {
+   "rec": "mc00275_n05_dataset",
+   "bic_K": -155098.72744670813,
+   "bic_Km1": -74507.4219355334,
+   "min_step_snr": 6.111476736071942,
+   "supported": true
+  },
+  {
+   "rec": "mc00274_n05_dataset",
+   "bic_K": -131238.55673970736,
+   "bic_Km1": -85738.58653510304,
+   "min_step_snr": 14.565370926370495,
+   "supported": true
+  },
+  {
+   "rec": "mc00276_n05_dataset",
+   "bic_K": -137722.45700894808,
+   "bic_Km1": -122074.12451162966,
+   "min_step_snr": 1.5517104477174792,
+   "supported": true
+  },
+  {
+   "rec": "mc00277_n05_dataset",
+   "bic_K": -156286.00626073644,
+   "bic_Km1": -133815.56414749776,
+   "min_step_snr": 2.7157576216436636,
+   "supported": true
+  },
+  {
+   "rec": "mc00278_n05_dataset",
+   "bic_K": -92161.02209250002,
+   "bic_Km1": 139160.3814347393,
+   "min_step_snr": 28.440450360933124,
+   "supported": true
+  },
+  {
+   "rec": "mc00279_n05_dataset",
+   "bic_K": -150301.85570971586,
+   "bic_Km1": -119564.39189939345,
+   "min_step_snr": 2.5914588326340056,
+   "supported": true
+  },
+  {
+   "rec": "mc00280_n05_dataset",
+   "bic_K": -147357.21364131029,
+   "bic_Km1": 20417.79993707328,
+   "min_step_snr": 10.36544499184675,
+   "supported": true
+  },
+  {
+   "rec": "mc00281_n05_dataset",
+   "bic_K": -99280.39031984337,
+   "bic_Km1": -64603.52850220609,
+   "min_step_snr": 9.515470825106965,
+   "supported": true
+  },
+  {
+   "rec": "mc00283_n05_dataset",
+   "bic_K": -147049.45736130484,
+   "bic_Km1": -10719.48563465494,
+   "min_step_snr": 7.544075921843673,
+   "supported": true
+  },
+  {
+   "rec": "mc00284_n05_dataset",
+   "bic_K": -50372.97575335696,
+   "bic_Km1": 11513.515120850143,
+   "min_step_snr": 13.411166533135807,
+   "supported": true
+  },
+  {
+   "rec": "mc00285_n05_dataset",
+   "bic_K": -153270.84528043843,
+   "bic_Km1": -142976.3872010698,
+   "min_step_snr": 4.396364397311605,
+   "supported": true
+  },
+  {
+   "rec": "mc00286_n05_dataset",
+   "bic_K": -152584.4192543595,
+   "bic_Km1": -9432.495037994644,
+   "min_step_snr": 20.083595418584597,
+   "supported": true
+  },
+  {
+   "rec": "mc00282_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00288_n05_dataset",
+   "bic_K": -146920.20191596524,
+   "bic_Km1": -139916.70820318197,
+   "min_step_snr": 1.6654275066750341,
+   "supported": true
+  },
+  {
+   "rec": "mc00287_n05_dataset",
+   "bic_K": -156784.1202589054,
+   "bic_Km1": -152639.52550449042,
+   "min_step_snr": 4.002734712601303,
+   "supported": true
+  },
+  {
+   "rec": "mc00289_n05_dataset",
+   "bic_K": -156734.40328525438,
+   "bic_Km1": -144253.76940096158,
+   "min_step_snr": 1.4446280740154396,
+   "supported": true
+  },
+  {
+   "rec": "mc00290_n05_dataset",
+   "bic_K": -156849.4396378906,
+   "bic_Km1": -148287.89475973323,
+   "min_step_snr": 4.075691421486341,
+   "supported": true
+  },
+  {
+   "rec": "mc00292_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00291_n05_dataset",
+   "bic_K": -153862.98301732092,
+   "bic_Km1": -106889.13635744681,
+   "min_step_snr": 25.694718953793124,
+   "supported": true
+  },
+  {
+   "rec": "mc00293_n05_dataset",
+   "bic_K": -156821.18367926433,
+   "bic_Km1": -141035.5292194835,
+   "min_step_snr": 4.5032482827925,
+   "supported": true
+  },
+  {
+   "rec": "mc00294_n05_dataset",
+   "bic_K": -152746.11234254448,
+   "bic_Km1": -116889.15094631552,
+   "min_step_snr": 6.2089824580882365,
+   "supported": true
+  },
+  {
+   "rec": "mc00295_n05_dataset",
+   "bic_K": -152432.94880784414,
+   "bic_Km1": -143707.45689799002,
+   "min_step_snr": 10.661874405336881,
+   "supported": true
+  },
+  {
+   "rec": "mc00296_n05_dataset",
+   "bic_K": -140880.6881111834,
+   "bic_Km1": -126942.39323732932,
+   "min_step_snr": 8.884395084142508,
+   "supported": true
+  },
+  {
+   "rec": "mc00298_n05_dataset",
+   "bic_K": -123633.3609299543,
+   "bic_Km1": -65014.76160047914,
+   "min_step_snr": 4.454449193874416,
+   "supported": true
+  },
+  {
+   "rec": "mc00299_n05_dataset",
+   "bic_K": -140302.4648831634,
+   "bic_Km1": -105869.32078629005,
+   "min_step_snr": 2.489329498982058,
+   "supported": true
+  },
+  {
+   "rec": "mc00297_n05_dataset",
+   "bic_K": -155779.24034809688,
+   "bic_Km1": -154574.63859122805,
+   "min_step_snr": 8.999278787183767,
+   "supported": true
+  },
+  {
+   "rec": "mc00300_n05_dataset",
+   "bic_K": -155976.21536686772,
+   "bic_Km1": -116959.73059026725,
+   "min_step_snr": 11.974628537376,
+   "supported": true
+  },
+  {
+   "rec": "mc00302_n05_dataset",
+   "bic_K": -156881.23032472498,
+   "bic_Km1": -44488.13050338132,
+   "min_step_snr": 5.000877386641914,
+   "supported": true
+  },
+  {
+   "rec": "mc00301_n05_dataset",
+   "bic_K": -155749.22697570577,
+   "bic_Km1": -149427.01733376778,
+   "min_step_snr": 7.364998039603589,
+   "supported": true
+  },
+  {
+   "rec": "mc00304_n05_dataset",
+   "bic_K": -121941.23333855944,
+   "bic_Km1": -117834.3538482208,
+   "min_step_snr": 2.0891123818355997,
+   "supported": true
+  },
+  {
+   "rec": "mc00305_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00303_n05_dataset",
+   "bic_K": -157330.0985402789,
+   "bic_Km1": -152974.5958019932,
+   "min_step_snr": 5.093037015722658,
+   "supported": true
+  },
+  {
+   "rec": "mc00307_n05_dataset",
+   "bic_K": -155983.19711786584,
+   "bic_Km1": -149374.53707109817,
+   "min_step_snr": 1.6274750855082105,
+   "supported": true
+  },
+  {
+   "rec": "mc00308_n05_dataset",
+   "bic_K": -149093.3879159264,
+   "bic_Km1": -130075.67461534392,
+   "min_step_snr": 13.667472421255042,
+   "supported": true
+  },
+  {
+   "rec": "mc00309_n05_dataset",
+   "bic_K": -155959.41408720514,
+   "bic_Km1": -90973.88345785905,
+   "min_step_snr": 7.605378211046137,
+   "supported": true
+  },
+  {
+   "rec": "mc00310_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00311_n05_dataset",
+   "bic_K": -154149.29674895876,
+   "bic_Km1": -97917.48236991727,
+   "min_step_snr": 19.314125305167064,
+   "supported": true
+  },
+  {
+   "rec": "mc00312_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00313_n05_dataset",
+   "bic_K": -148611.72854153335,
+   "bic_Km1": -35021.26636168885,
+   "min_step_snr": 7.136951216405373,
+   "supported": true
+  },
+  {
+   "rec": "mc00306_n05_dataset",
+   "bic_K": -157671.92429049115,
+   "bic_Km1": -157867.25929420022,
+   "min_step_snr": 0.37201744712734847,
+   "supported": false
+  },
+  {
+   "rec": "mc00315_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00314_n05_dataset",
+   "bic_K": -47964.296376319566,
+   "bic_Km1": 80744.18440758217,
+   "min_step_snr": 14.460678176807887,
+   "supported": true
+  },
+  {
+   "rec": "mc00316_n05_dataset",
+   "bic_K": -154282.91679121635,
+   "bic_Km1": -133560.9765724984,
+   "min_step_snr": 10.814343283929572,
+   "supported": true
+  },
+  {
+   "rec": "mc00317_n05_dataset",
+   "error": "LinAlgError('SVD did not converge in Linear Least Squares')"
+  },
+  {
+   "rec": "mc00318_n05_dataset",
+   "bic_K": -153154.80056846788,
+   "bic_Km1": -98126.11108000815,
+   "min_step_snr": 5.89977600991885,
+   "supported": true
+  },
+  {
+   "rec": "mc00319_n05_dataset",
+   "bic_K": -137636.16686418455,
+   "bic_Km1": -84814.21105397434,
+   "min_step_snr": 28.38320040293683,
+   "supported": true
+  },
+  {
+   "rec": "mc00321_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00320_n05_dataset",
+   "bic_K": -155718.48329761182,
+   "bic_Km1": -152718.1655487424,
+   "min_step_snr": 7.8850783395266335,
+   "supported": true
+  },
+  {
+   "rec": "mc00323_n05_dataset",
+   "bic_K": -125527.87279647883,
+   "bic_Km1": -71304.93508924419,
+   "min_step_snr": 4.756400424477047,
+   "supported": true
+  },
+  {
+   "rec": "mc00322_n05_dataset",
+   "bic_K": -154980.47280359583,
+   "bic_Km1": -151302.02844936657,
+   "min_step_snr": 27.80638818250199,
+   "supported": true
+  },
+  {
+   "rec": "mc00324_n05_dataset",
+   "bic_K": -149191.8249061582,
+   "bic_Km1": -12730.438987862964,
+   "min_step_snr": 11.479940536104158,
+   "supported": true
+  },
+  {
+   "rec": "mc00325_n05_dataset",
+   "bic_K": -147687.95908733143,
+   "bic_Km1": -120240.08936203361,
+   "min_step_snr": 2.0500839825887307,
+   "supported": true
+  },
+  {
+   "rec": "mc00327_n05_dataset",
+   "bic_K": -119132.88179192235,
+   "bic_Km1": -26386.094878315278,
+   "min_step_snr": 9.019052307174688,
+   "supported": true
+  },
+  {
+   "rec": "mc00328_n05_dataset",
+   "bic_K": -87531.26704844911,
+   "bic_Km1": 22070.594538656303,
+   "min_step_snr": 11.918360076639903,
+   "supported": true
+  },
+  {
+   "rec": "mc00329_n05_dataset",
+   "bic_K": -156935.967293279,
+   "bic_Km1": -154343.07087948697,
+   "min_step_snr": 5.38322433793798,
+   "supported": true
+  },
+  {
+   "rec": "mc00330_n05_dataset",
+   "bic_K": -151565.38081755047,
+   "bic_Km1": -91598.531508746,
+   "min_step_snr": 8.690925368159187,
+   "supported": true
+  },
+  {
+   "rec": "mc00331_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00326_n05_dataset",
+   "bic_K": -156666.31339942422,
+   "bic_Km1": -156514.36849042383,
+   "min_step_snr": 0.7583576634214505,
+   "supported": false
+  },
+  {
+   "rec": "mc00332_n05_dataset",
+   "bic_K": -139311.17361425818,
+   "bic_Km1": 33223.58526719348,
+   "min_step_snr": 33.528296639679915,
+   "supported": true
+  },
+  {
+   "rec": "mc00333_n05_dataset",
+   "bic_K": -101790.40995771755,
+   "bic_Km1": -55061.169962482796,
+   "min_step_snr": 9.424975123889041,
+   "supported": true
+  },
+  {
+   "rec": "mc00335_n05_dataset",
+   "bic_K": -121904.8039117479,
+   "bic_Km1": -72618.69469297587,
+   "min_step_snr": 10.143949703904772,
+   "supported": true
+  },
+  {
+   "rec": "mc00334_n05_dataset",
+   "bic_K": -150922.7954019634,
+   "bic_Km1": -94803.3634592818,
+   "min_step_snr": 15.515886116250194,
+   "supported": true
+  },
+  {
+   "rec": "mc00336_n05_dataset",
+   "bic_K": -141350.78290911048,
+   "bic_Km1": -14111.666066902753,
+   "min_step_snr": 10.0119875713125,
+   "supported": true
+  },
+  {
+   "rec": "mc00337_n05_dataset",
+   "bic_K": -156914.49861071946,
+   "bic_Km1": -141098.81541318074,
+   "min_step_snr": 1.7889414975791074,
+   "supported": true
+  },
+  {
+   "rec": "mc00339_n05_dataset",
+   "bic_K": 28011.64791930211,
+   "bic_Km1": 84112.84623449235,
+   "min_step_snr": 7.666236046677659,
+   "supported": true
+  },
+  {
+   "rec": "mc00340_n05_dataset",
+   "bic_K": -153539.95104089787,
+   "bic_Km1": -51793.72378304607,
+   "min_step_snr": 13.292886528249225,
+   "supported": true
+  },
+  {
+   "rec": "mc00338_n05_dataset",
+   "bic_K": -157512.77130594663,
+   "bic_Km1": -157422.0530136546,
+   "min_step_snr": 0.9876839158118171,
+   "supported": false
+  },
+  {
+   "rec": "mc00342_n05_dataset",
+   "bic_K": -153871.8556240566,
+   "bic_Km1": -75440.12988826417,
+   "min_step_snr": 17.820785827862807,
+   "supported": true
+  },
+  {
+   "rec": "mc00343_n05_dataset",
+   "bic_K": -110853.11955955686,
+   "bic_Km1": -66880.26917543437,
+   "min_step_snr": 11.303228616221867,
+   "supported": true
+  },
+  {
+   "rec": "mc00344_n05_dataset",
+   "bic_K": -155042.48207130603,
+   "bic_Km1": 51829.82100954619,
+   "min_step_snr": 16.875981088425508,
+   "supported": true
+  },
+  {
+   "rec": "mc00345_n05_dataset",
+   "bic_K": -154404.8222152365,
+   "bic_Km1": -64800.72671401938,
+   "min_step_snr": 4.400954010417429,
+   "supported": true
+  },
+  {
+   "rec": "mc00341_n05_dataset",
+   "bic_K": -156167.0288358889,
+   "bic_Km1": -156076.83996886376,
+   "min_step_snr": 0.4474629167902804,
+   "supported": false
+  },
+  {
+   "rec": "mc00346_n05_dataset",
+   "bic_K": -155526.47617564508,
+   "bic_Km1": -77658.99740873519,
+   "min_step_snr": 4.098879146528181,
+   "supported": true
+  },
+  {
+   "rec": "mc00348_n05_dataset",
+   "bic_K": -144653.18622383935,
+   "bic_Km1": -132471.35348793637,
+   "min_step_snr": 2.572029590316082,
+   "supported": true
+  },
+  {
+   "rec": "mc00349_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00350_n05_dataset",
+   "bic_K": -154836.6479927734,
+   "bic_Km1": -134703.82782003604,
+   "min_step_snr": 9.755708470818593,
+   "supported": true
+  },
+  {
+   "rec": "mc00351_n05_dataset",
+   "bic_K": -149842.8313992889,
+   "bic_Km1": -99191.75924066658,
+   "min_step_snr": 2.9496166327682136,
+   "supported": true
+  },
+  {
+   "rec": "mc00347_n05_dataset",
+   "bic_K": -150165.34371920524,
+   "bic_Km1": -149484.37118151487,
+   "min_step_snr": 4.985185641222766,
+   "supported": true
+  },
+  {
+   "rec": "mc00352_n05_dataset",
+   "bic_K": -137714.07664604747,
+   "bic_Km1": -117917.2609963931,
+   "min_step_snr": 4.474964700641979,
+   "supported": true
+  },
+  {
+   "rec": "mc00353_n05_dataset",
+   "bic_K": -155113.86248099862,
+   "bic_Km1": -143534.222882353,
+   "min_step_snr": 4.8308999191426985,
+   "supported": true
+  },
+  {
+   "rec": "mc00354_n05_dataset",
+   "bic_K": -135385.69893063582,
+   "bic_Km1": -87309.99061620598,
+   "min_step_snr": 16.95821388273197,
+   "supported": true
+  },
+  {
+   "rec": "mc00356_n05_dataset",
+   "bic_K": 17433.3646201468,
+   "bic_Km1": 37355.10537998921,
+   "min_step_snr": 5.072740183686795,
+   "supported": true
+  },
+  {
+   "rec": "mc00355_n05_dataset",
+   "bic_K": -157851.1273653512,
+   "bic_Km1": -155013.06097133632,
+   "min_step_snr": 4.981240944045186,
+   "supported": true
+  },
+  {
+   "rec": "mc00357_n05_dataset",
+   "bic_K": -154190.94833309465,
+   "bic_Km1": -106864.1464023533,
+   "min_step_snr": 12.800964663414742,
+   "supported": true
+  },
+  {
+   "rec": "mc00358_n05_dataset",
+   "bic_K": -155177.51532346488,
+   "bic_Km1": -151508.24641920906,
+   "min_step_snr": 6.230424906912344,
+   "supported": true
+  },
+  {
+   "rec": "mc00360_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00359_n05_dataset",
+   "bic_K": -151605.00661716616,
+   "bic_Km1": -148006.48916549806,
+   "min_step_snr": 10.40546871114309,
+   "supported": true
+  },
+  {
+   "rec": "mc00362_n05_dataset",
+   "bic_K": -157800.656757291,
+   "bic_Km1": -148551.3969613209,
+   "min_step_snr": 3.2747631354565274,
+   "supported": true
+  },
+  {
+   "rec": "mc00363_n05_dataset",
+   "bic_K": -155481.2415293178,
+   "bic_Km1": -41257.29443976528,
+   "min_step_snr": 10.166278847317649,
+   "supported": true
+  },
+  {
+   "rec": "mc00364_n05_dataset",
+   "bic_K": -123674.09213474733,
+   "bic_Km1": -3638.70610499598,
+   "min_step_snr": 14.986067721350636,
+   "supported": true
+  },
+  {
+   "rec": "mc00361_n05_dataset",
+   "bic_K": -154652.84005069692,
+   "bic_Km1": -153776.66331436898,
+   "min_step_snr": 8.972663149337059,
+   "supported": true
+  },
+  {
+   "rec": "mc00366_n05_dataset",
+   "bic_K": -128624.28862354814,
+   "bic_Km1": -102632.15170725391,
+   "min_step_snr": 28.5088833349465,
+   "supported": true
+  },
+  {
+   "rec": "mc00367_n05_dataset",
+   "bic_K": -140844.5210574583,
+   "bic_Km1": -125439.53451788938,
+   "min_step_snr": 5.602684794939415,
+   "supported": true
+  },
+  {
+   "rec": "mc00365_n05_dataset",
+   "bic_K": -157350.58870410884,
+   "bic_Km1": -157303.95068348228,
+   "min_step_snr": 0.1405282836134606,
+   "supported": false
+  },
+  {
+   "rec": "mc00369_n05_dataset",
+   "bic_K": -155659.3439935604,
+   "bic_Km1": -92693.35526874091,
+   "min_step_snr": 7.0473301344245005,
+   "supported": true
+  },
+  {
+   "rec": "mc00370_n05_dataset",
+   "error": "ZeroDivisionError('division by zero')"
+  },
+  {
+   "rec": "mc00368_n05_dataset",
+   "bic_K": -155926.88619309705,
+   "bic_Km1": -155916.5955762213,
+   "min_step_snr": 1.1640592070517608,
+   "supported": false
+  },
+  {
+   "rec": "mc00372_n05_dataset",
+   "bic_K": -154815.76888071455,
+   "bic_Km1": -91351.91090133111,
+   "min_step_snr": 3.270585651737379,
+   "supported": true
+  },
+  {
+   "rec": "mc00373_n05_dataset",
+   "bic_K": -141705.13487178198,
+   "bic_Km1": -74389.45494603418,
+   "min_step_snr": 8.569763051474705,
+   "supported": true
+  },
+  {
+   "rec": "mc00374_n05_dataset",
+   "bic_K": -153416.23047759559,
+   "bic_Km1": -36902.74089529756,
+   "min_step_snr": 18.299588738015707,
+   "supported": true
+  },
+  {
+   "rec": "mc00371_n05_dataset",
+   "bic_K": -157276.37564819248,
+   "bic_Km1": -157224.1380683388,
+   "min_step_snr": 0.33638617966531625,
+   "supported": false
+  },
+  {
+   "rec": "mc00375_n05_dataset",
+   "bic_K": -156354.39440285374,
+   "bic_Km1": -155117.77193817502,
+   "min_step_snr": 3.9864522389282726,
+   "supported": true
+  },
+  {
+   "rec": "mc00376_n05_dataset",
+   "bic_K": -155702.51270523382,
+   "bic_Km1": -154816.66652778338,
+   "min_step_snr": 4.964079792700464,
+   "supported": true
+  },
+  {
+   "rec": "mc00377_n05_dataset",
+   "bic_K": -154471.04619314778,
+   "bic_Km1": 26961.760741876933,
+   "min_step_snr": 18.006849409842374,
+   "supported": true
+  },
+  {
+   "rec": "mc00378_n05_dataset",
+   "bic_K": -154260.85067718278,
+   "bic_Km1": -117869.97461763723,
+   "min_step_snr": 4.453912761294686,
+   "supported": true
+  },
+  {
+   "rec": "mc00380_n05_dataset",
+   "bic_K": -157008.19125931134,
+   "bic_Km1": -154746.5720660254,
+   "min_step_snr": 6.896843859757025,
+   "supported": true
+  },
+  {
+   "rec": "mc00379_n05_dataset",
+   "bic_K": -120437.66613155967,
+   "bic_Km1": -107895.42048583689,
+   "min_step_snr": 7.034687923400461,
+   "supported": true
+  },
+  {
+   "rec": "mc00381_n05_dataset",
+   "bic_K": -156069.09140447358,
+   "bic_Km1": -125515.78946999156,
+   "min_step_snr": 3.2558672495582743,
+   "supported": true
+  },
+  {
+   "rec": "mc00383_n05_dataset",
+   "bic_K": -150258.3913639348,
+   "bic_Km1": -112485.97909417617,
+   "min_step_snr": 3.636893577317425,
+   "supported": true
+  },
+  {
+   "rec": "mc00382_n05_dataset",
+   "bic_K": -153761.4086345231,
+   "bic_Km1": -150479.19139796548,
+   "min_step_snr": 8.884130909191267,
+   "supported": true
+  },
+  {
+   "rec": "mc00385_n05_dataset",
+   "bic_K": -157237.40649706149,
+   "bic_Km1": -156872.670473781,
+   "min_step_snr": 8.304975749177942,
+   "supported": true
+  },
+  {
+   "rec": "mc00384_n05_dataset",
+   "bic_K": -156628.86903854657,
+   "bic_Km1": -156028.57438501058,
+   "min_step_snr": 2.1970306602771155,
+   "supported": true
+  },
+  {
+   "rec": "mc00386_n05_dataset",
+   "bic_K": -154508.574318889,
+   "bic_Km1": -151492.58312333864,
+   "min_step_snr": 8.777192735829956,
+   "supported": true
+  },
+  {
+   "rec": "mc00387_n05_dataset",
+   "bic_K": -157169.72024750395,
+   "bic_Km1": -155964.5499005018,
+   "min_step_snr": 2.261705759110157,
+   "supported": true
+  },
+  {
+   "rec": "mc00388_n05_dataset",
+   "bic_K": -156123.11859781138,
+   "bic_Km1": -151476.30189962703,
+   "min_step_snr": 12.312323370410743,
+   "supported": true
+  },
+  {
+   "rec": "mc00390_n05_dataset",
+   "bic_K": -153308.97773410525,
+   "bic_Km1": -125524.83545611618,
+   "min_step_snr": 8.917282378667743,
+   "supported": true
+  },
+  {
+   "rec": "mc00391_n05_dataset",
+   "bic_K": -157600.10262854968,
+   "bic_Km1": -72608.3160409205,
+   "min_step_snr": 13.301337947206715,
+   "supported": true
+  },
+  {
+   "rec": "mc00389_n05_dataset",
+   "bic_K": -156982.3365757959,
+   "bic_Km1": -155060.16627872328,
+   "min_step_snr": 0.002859776574806831,
+   "supported": false
+  },
+  {
+   "rec": "mc00392_n05_dataset",
+   "bic_K": -157240.55999915517,
+   "bic_Km1": -152322.87585154345,
+   "min_step_snr": 2.151283137117451,
+   "supported": true
+  },
+  {
+   "rec": "mc00393_n05_dataset",
+   "bic_K": -155485.49111636978,
+   "bic_Km1": -149790.334117951,
+   "min_step_snr": 1.4322556493964214,
+   "supported": true
+  },
+  {
+   "rec": "mc00394_n05_dataset",
+   "bic_K": -156635.79624515737,
+   "bic_Km1": -35054.98525207386,
+   "min_step_snr": 20.538805915429627,
+   "supported": true
+  },
+  {
+   "rec": "mc00396_n05_dataset",
+   "bic_K": -154611.83995710046,
+   "bic_Km1": -74857.11340216827,
+   "min_step_snr": 14.504671161127492,
+   "supported": true
+  },
+  {
+   "rec": "mc00395_n05_dataset",
+   "bic_K": -153867.80278962612,
+   "bic_Km1": -140150.32565038546,
+   "min_step_snr": 7.697436563336976,
+   "supported": true
+  },
+  {
+   "rec": "mc00398_n05_dataset",
+   "bic_K": -149077.09336454765,
+   "bic_Km1": -89835.19267903853,
+   "min_step_snr": 4.361118657283738,
+   "supported": true
+  },
+  {
+   "rec": "mc00397_n05_dataset",
+   "bic_K": -156505.00067197118,
+   "bic_Km1": -156328.73284611368,
+   "min_step_snr": 0.4079193518594811,
+   "supported": false
+  },
+  {
+   "rec": "mc00399_n05_dataset",
+   "bic_K": -149900.82346986653,
+   "bic_Km1": -149923.8077853283,
+   "min_step_snr": 1.156892456946679,
+   "supported": false
+  },
+  {
+   "rec": "mc00400_n05_dataset",
+   "bic_K": -156823.33165601187,
+   "bic_Km1": -156827.83346121392,
+   "min_step_snr": 0.6947354091078514,
+   "supported": false
+  }
+ ]
+}

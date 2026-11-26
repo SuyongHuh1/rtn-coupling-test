@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-24",
+ "divider": "R1 = 10 kOhm (AO 0 to node), R2 = 220 Ohm (node to AO GND), breadboard; AI 0+ = node, AI 0- = AO GND; AI range +-0.2 V",
+ "dc_levels_V": [
+  0,
+  0.4,
+  0.8,
+  1.2,
+  1.6
+ ],
+ "ai_means_uV": [
+  -15.9,
+  8560.0,
+  17119.3,
+  25691.0,
+  34264.5
+ ],
+ "ratio_measured": 0.021423,
+ "offset_uV": -14.6,
+ "fit_residuals_uV": [
+  -1.31,
+  3.41,
+  -1.84,
+  -1.34,
+  1.07
+ ],
+ "noise_zero_records": [
+  {
+   "rms_uV": 24.58,
+   "lag1": -0.007,
+   "drift_uV": 0.89
+  },
+  {
+   "rms_uV": 25.32,
+   "lag1": -0.073,
+   "drift_uV": 0.15
+  }
+ ],
+ "stop_rule": "not triggered (rms < 65.2 uV, |lag1| < 0.2)",
+ "ao_lsb_at_ai_uV": 6.538,
+ "amplitude": {
+  "noise_rms_uV": 24.95,
+  "n_small_LSB": 10,
+  "a_small_uV": 65.4,
+  "step_to_noise": 2.62
+ },
+ "post_run_check": {
+  "ratio_measured": 0.021424,
+  "change_percent": 0.003,
+  "noise_zero_records": [
+   {
+    "rms_uV": 23.17,
+    "lag1": -0.014
+   },
+   {
+    "rms_uV": 22.75,
+    "lag1": -0.007
+   }
+  ]
+ },
+ "playback": {
+  "records": 130,
+  "date": "2026-11-24",
+  "log": "loop/loop_main_log.txt on the laptop; AI files kept on the laptop (loop/ai_out)"
+ }
+}

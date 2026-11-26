@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "rtn-coupling-test: code and results for calibrated identification of trap-trap coupling in multi-trap RTN"
+authors:
+  - family-names: Huh
+    given-names: Suyong
+    affiliation: "School of Electrical Engineering and Computer Science, GIST"
+type: software
+license: MIT
+repository-code: "https://github.com/SuyongHuh1/rtn-coupling-test"
+version: i2mtc-v15

@@ -1,0 +1,13 @@
+device=cuda torch=2.8.0+cu128 NVIDIA GeForce RTX 5060 Ti args={'steps': 25000, 'T': 4096, 'chunk': 256, 'reuse': 2, 'bs': 64, 'lr': 0.0005, 'channels': 64, 'eval_every': 2500, 'quick': False}
+generating test set ...
+step 2500/25000 loss 1.0112 ema-test {"level_rmse": 0.9063, "edge_precision": 0.8052, "edge_recall": 0.9568, "edge_f1": 0.8745, "step_mae": 0.7605} (525s)
+step 5000/25000 loss 0.9230 ema-test {"level_rmse": 0.7179, "edge_precision": 0.8262, "edge_recall": 0.9592, "edge_f1": 0.8877, "step_mae": 0.6586} (1046s)
+step 7500/25000 loss 0.9370 ema-test {"level_rmse": 0.6608, "edge_precision": 0.8172, "edge_recall": 0.9633, "edge_f1": 0.8843, "step_mae": 0.6354} (1559s)
+step 10000/25000 loss 0.8711 ema-test {"level_rmse": 0.6316, "edge_precision": 0.8172, "edge_recall": 0.9642, "edge_f1": 0.8846, "step_mae": 0.6213} (2074s)
+step 12500/25000 loss 0.8388 ema-test {"level_rmse": 0.6153, "edge_precision": 0.817, "edge_recall": 0.9649, "edge_f1": 0.8848, "step_mae": 0.6125} (2585s)
+step 15000/25000 loss 0.8272 ema-test {"level_rmse": 0.6057, "edge_precision": 0.8169, "edge_recall": 0.9652, "edge_f1": 0.8849, "step_mae": 0.6062} (3095s)
+step 17500/25000 loss 0.8589 ema-test {"level_rmse": 0.5997, "edge_precision": 0.8193, "edge_recall": 0.9649, "edge_f1": 0.8862, "step_mae": 0.6015} (3605s)
+step 20000/25000 loss 0.7897 ema-test {"level_rmse": 0.5959, "edge_precision": 0.8173, "edge_recall": 0.9654, "edge_f1": 0.8852, "step_mae": 0.5985} (4116s)
+step 22500/25000 loss 0.7655 ema-test {"level_rmse": 0.5937, "edge_precision": 0.8168, "edge_recall": 0.9656, "edge_f1": 0.885, "step_mae": 0.5971} (4629s)
+step 25000/25000 loss 0.7939 ema-test {"level_rmse": 0.5932, "edge_precision": 0.8172, "edge_recall": 0.9656, "edge_f1": 0.8852, "step_mae": 0.5967} (5139s)
+done: {"level_rmse": 0.593230439350009, "edge_precision": 0.8172144735036057, "edge_recall": 0.9656006414116379, "edge_f1": 0.88523236446026, "step_mae": 0.5966551184796858}

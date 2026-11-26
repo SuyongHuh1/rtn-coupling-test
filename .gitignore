@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+out/
+*.log
+
+# manuscript sources and generated figures stay local
+paper/
+figures/out/
+results/figs/

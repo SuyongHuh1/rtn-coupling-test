@@ -1,0 +1,4200 @@
+{
+ "2source": {
+  "n_with_solution": 192,
+  "K_found_hist": {
+   "0": 0,
+   "1": 61,
+   "2": 120,
+   "3": 11,
+   "4": 0,
+   "5": 0,
+   "6": 0,
+   "7": 0,
+   "8": 0
+  },
+  "all_tested": {
+   "n": 131,
+   "guo_d0p5": 0.8931297709923665,
+   "son_bonf": 0.3969465648854962,
+   "zhang_lv": 0.48854961832061067
+  },
+  "K_correct": {
+   "n": 120,
+   "guo_d0p5": 0.8833333333333333,
+   "son_bonf": 0.3416666666666667,
+   "zhang_lv": 0.44166666666666665
+  },
+  "K_correct_min_switch_ge_50": {
+   "n": 40,
+   "guo_d0p5": 0.775,
+   "son_bonf": 0.6,
+   "zhang_lv": 0.5
+  },
+  "rows": [
+   {
+    "rec": "mc00201_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9142012868932721,
+    "son_minp": 0.14841969388531695,
+    "son_m": 2,
+    "switches": [
+     88,
+     83
+    ]
+   },
+   {
+    "rec": "mc00202_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00203_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.4554455445544555,
+    "son_minp": 0.6039357852728596,
+    "son_m": 2,
+    "switches": [
+     104,
+     9
+    ]
+   },
+   {
+    "rec": "mc00204_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 147.8153012863913,
+    "son_minp": 2.8344625821221226e-132,
+    "son_m": 6,
+    "switches": [
+     9,
+     51,
+     1726
+    ]
+   },
+   {
+    "rec": "mc00205_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.90626204238921,
+    "son_minp": 0.11619682977577846,
+    "son_m": 2,
+    "switches": [
+     116,
+     7
+    ]
+   },
+   {
+    "rec": "mc00206_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00207_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.2278716936800516,
+    "son_minp": 1.4125063187403082e-22,
+    "son_m": 2,
+    "switches": [
+     2666,
+     2629
+    ]
+   },
+   {
+    "rec": "mc00208_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 0.9186706882965137,
+    "son_minp": 0.028300272327460522,
+    "son_m": 2,
+    "switches": [
+     2993,
+     2993
+    ]
+   },
+   {
+    "rec": "mc00209_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.3002465197215778,
+    "son_minp": 0.19475214108233335,
+    "son_m": 2,
+    "switches": [
+     223,
+     14
+    ]
+   },
+   {
+    "rec": "mc00210_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00211_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 6.15853709772288,
+    "son_minp": 8.922056278270815e-07,
+    "son_m": 6,
+    "switches": [
+     30,
+     8,
+     214
+    ]
+   },
+   {
+    "rec": "mc00212_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.0871099262976318,
+    "son_minp": 0.5372971427555706,
+    "son_m": 2,
+    "switches": [
+     609,
+     7
+    ]
+   },
+   {
+    "rec": "mc00213_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 203.26839826839827,
+    "son_minp": 0.00016334947245218715,
+    "son_m": 2,
+    "switches": [
+     231,
+     7
+    ]
+   },
+   {
+    "rec": "mc00214_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00216_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00217_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.1786120591581346,
+    "son_minp": 0.6795462041807927,
+    "son_m": 2,
+    "switches": [
+     426,
+     5
+    ]
+   },
+   {
+    "rec": "mc00219_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00220_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 109.33824561403509,
+    "son_minp": 3.661107356639955e-15,
+    "son_m": 2,
+    "switches": [
+     1175,
+     32
+    ]
+   },
+   {
+    "rec": "mc00221_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 3.162962962962963,
+    "son_minp": 1.3407946232812555e-42,
+    "son_m": 2,
+    "switches": [
+     134,
+     93
+    ]
+   },
+   {
+    "rec": "mc00222_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 4.931391180928095,
+    "son_minp": 0.06493313509353503,
+    "son_m": 2,
+    "switches": [
+     47,
+     134
+    ]
+   },
+   {
+    "rec": "mc00223_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00224_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00225_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 128.33333333333331,
+    "son_minp": 8.406318026178699e-182,
+    "son_m": 6,
+    "switches": [
+     1849,
+     1953,
+     133
+    ]
+   },
+   {
+    "rec": "mc00226_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1.3353383817645317,
+    "son_minp": 0.0005159101402176385,
+    "son_m": 2,
+    "switches": [
+     130,
+     2928
+    ]
+   },
+   {
+    "rec": "mc00227_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 48.3506987994983,
+    "son_minp": 6.129605366594375e-30,
+    "son_m": 2,
+    "switches": [
+     170,
+     1823
+    ]
+   },
+   {
+    "rec": "mc00228_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00229_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 9.266865979381443,
+    "son_minp": 6.07191153301659e-86,
+    "son_m": 2,
+    "switches": [
+     1691,
+     360
+    ]
+   },
+   {
+    "rec": "mc00230_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.2276217965538353,
+    "son_minp": 0.25270739410537707,
+    "son_m": 2,
+    "switches": [
+     53,
+     169
+    ]
+   },
+   {
+    "rec": "mc00231_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00232_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 12.60693075903945,
+    "son_minp": 3.2390822977772323e-170,
+    "son_m": 6,
+    "switches": [
+     215,
+     83,
+     2519
+    ]
+   },
+   {
+    "rec": "mc00233_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 0.9935350400827515,
+    "son_minp": 0.8512584368745326,
+    "son_m": 2,
+    "switches": [
+     4,
+     24
+    ]
+   },
+   {
+    "rec": "mc00234_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.2840666381888082,
+    "son_minp": 0.5974759460045532,
+    "son_m": 2,
+    "switches": [
+     10,
+     111
+    ]
+   },
+   {
+    "rec": "mc00235_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 3.0368193069306937,
+    "son_minp": 0.4089116975600806,
+    "son_m": 2,
+    "switches": [
+     102,
+     73
+    ]
+   },
+   {
+    "rec": "mc00236_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 523.9529411764705,
+    "son_minp": 2.68534792240312e-36,
+    "son_m": 6,
+    "switches": [
+     5,
+     85,
+     105
+    ]
+   },
+   {
+    "rec": "mc00237_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00238_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9932173627881985,
+    "son_minp": 1.3026327890199372e-18,
+    "son_m": 2,
+    "switches": [
+     106,
+     77
+    ]
+   },
+   {
+    "rec": "mc00239_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 17.861751152073733,
+    "son_minp": 0.9826535818204725,
+    "son_m": 2,
+    "switches": [
+     29,
+     2
+    ]
+   },
+   {
+    "rec": "mc00240_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 43.67213114754099,
+    "son_minp": 1.8688752856676252e-08,
+    "son_m": 2,
+    "switches": [
+     583,
+     60
+    ]
+   },
+   {
+    "rec": "mc00241_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 0.9988906145995119,
+    "son_minp": 0.9098412317283432,
+    "son_m": 2,
+    "switches": [
+     2,
+     4
+    ]
+   },
+   {
+    "rec": "mc00242_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00243_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00244_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00245_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00246_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9888088152101729,
+    "son_minp": 0.7969335000059166,
+    "son_m": 2,
+    "switches": [
+     5,
+     32
+    ]
+   },
+   {
+    "rec": "mc00247_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00248_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 0.9937649880095923,
+    "son_minp": 0.0012734429441062477,
+    "son_m": 2,
+    "switches": [
+     10,
+     12
+    ]
+   },
+   {
+    "rec": "mc00249_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 751.3968253968253,
+    "son_minp": 0.8991335690619472,
+    "son_m": 2,
+    "switches": [
+     4,
+     9
+    ]
+   },
+   {
+    "rec": "mc00250_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00251_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 8.725417439703154,
+    "son_minp": 0.0018294009097193664,
+    "son_m": 6,
+    "switches": [
+     9,
+     99,
+     2719
+    ]
+   },
+   {
+    "rec": "mc00252_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00253_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 40.51730862993662,
+    "son_minp": 0.05530253947162069,
+    "son_m": 2,
+    "switches": [
+     3,
+     213
+    ]
+   },
+   {
+    "rec": "mc00254_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 10.303030303030303,
+    "son_minp": 0.015225324348142884,
+    "son_m": 2,
+    "switches": [
+     31,
+     3331
+    ]
+   },
+   {
+    "rec": "mc00255_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00256_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00257_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 170.58181818181816,
+    "son_minp": 0.00026444084443606617,
+    "son_m": 2,
+    "switches": [
+     54,
+     77
+    ]
+   },
+   {
+    "rec": "mc00258_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 56.86666666666666,
+    "son_minp": 0.0038932847767285577,
+    "son_m": 2,
+    "switches": [
+     59,
+     45
+    ]
+   },
+   {
+    "rec": "mc00259_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00261_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00262_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.20006070388918784,
+    "son_minp": 0.8940290289180266,
+    "son_m": 2,
+    "switches": [
+     548,
+     80
+    ]
+   },
+   {
+    "rec": "mc00263_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.6804449392442884,
+    "son_minp": 0.10036139096475312,
+    "son_m": 2,
+    "switches": [
+     162,
+     8
+    ]
+   },
+   {
+    "rec": "mc00264_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1.5162689804772236,
+    "son_minp": 0.44252240926165654,
+    "son_m": 2,
+    "switches": [
+     224,
+     4
+    ]
+   },
+   {
+    "rec": "mc00265_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9922374777398439,
+    "son_minp": 0.0,
+    "son_m": 2,
+    "switches": [
+     1988,
+     1533
+    ]
+   },
+   {
+    "rec": "mc00266_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 8.891311994372142,
+    "son_minp": 0.0010670326097695058,
+    "son_m": 2,
+    "switches": [
+     2842,
+     85
+    ]
+   },
+   {
+    "rec": "mc00267_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 8.0,
+    "son_minp": 0.5039838131133536,
+    "son_m": 2,
+    "switches": [
+     91,
+     1824
+    ]
+   },
+   {
+    "rec": "mc00268_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.2520351580934403,
+    "son_minp": 0.3161571679081374,
+    "son_m": 2,
+    "switches": [
+     7,
+     4276
+    ]
+   },
+   {
+    "rec": "mc00269_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00270_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 320.038961038961,
+    "son_minp": 0.9986862186131026,
+    "son_m": 2,
+    "switches": [
+     1,
+     10
+    ]
+   },
+   {
+    "rec": "mc00271_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 7.6532356532356545,
+    "son_minp": 0.8636450363003153,
+    "son_m": 2,
+    "switches": [
+     48,
+     55
+    ]
+   },
+   {
+    "rec": "mc00272_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 142.07999999999998,
+    "son_minp": 0.006579340173205108,
+    "son_m": 2,
+    "switches": [
+     21,
+     24
+    ]
+   },
+   {
+    "rec": "mc00273_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00274_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00275_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.778682959945689,
+    "son_minp": 0.04629852770557208,
+    "son_m": 2,
+    "switches": [
+     61,
+     27
+    ]
+   },
+   {
+    "rec": "mc00276_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00277_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.3828496523424142,
+    "son_minp": 1.4238844489409244e-06,
+    "son_m": 2,
+    "switches": [
+     7,
+     1057
+    ]
+   },
+   {
+    "rec": "mc00278_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.8188421455047121,
+    "son_minp": 0.09143151261193262,
+    "son_m": 2,
+    "switches": [
+     16,
+     456
+    ]
+   },
+   {
+    "rec": "mc00279_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.8990781673006408,
+    "son_minp": 0.3761980591640473,
+    "son_m": 2,
+    "switches": [
+     26,
+     2945
+    ]
+   },
+   {
+    "rec": "mc00280_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.12278392879647781,
+    "son_minp": 0.736443339526474,
+    "son_m": 2,
+    "switches": [
+     60,
+     359
+    ]
+   },
+   {
+    "rec": "mc00281_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.4069539384500015,
+    "son_minp": 0.38151076875633455,
+    "son_m": 2,
+    "switches": [
+     1656,
+     54
+    ]
+   },
+   {
+    "rec": "mc00282_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00283_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.2761920338398254,
+    "son_minp": 0.5372227724452454,
+    "son_m": 2,
+    "switches": [
+     35,
+     470
+    ]
+   },
+   {
+    "rec": "mc00284_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 34.20689655172414,
+    "son_minp": 3.179717813925661e-33,
+    "son_m": 2,
+    "switches": [
+     98,
+     1021
+    ]
+   },
+   {
+    "rec": "mc00285_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.796430192104069,
+    "son_minp": 0.3079220781571641,
+    "son_m": 2,
+    "switches": [
+     140,
+     7
+    ]
+   },
+   {
+    "rec": "mc00286_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.385398195975638,
+    "son_minp": 0.7325331467898628,
+    "son_m": 2,
+    "switches": [
+     6,
+     99
+    ]
+   },
+   {
+    "rec": "mc00288_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00289_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00290_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 86.34319204528958,
+    "son_minp": 1.5418290586080616e-14,
+    "son_m": 2,
+    "switches": [
+     3,
+     108
+    ]
+   },
+   {
+    "rec": "mc00291_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 503.3265306122448,
+    "son_minp": 0.5045165170945728,
+    "son_m": 2,
+    "switches": [
+     3,
+     49
+    ]
+   },
+   {
+    "rec": "mc00292_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00293_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 19.731707317073173,
+    "son_minp": 1.1707160317644765e-07,
+    "son_m": 6,
+    "switches": [
+     9,
+     39,
+     2374
+    ]
+   },
+   {
+    "rec": "mc00294_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 18.15068493150685,
+    "son_minp": 1.8143839417999374e-10,
+    "son_m": 2,
+    "switches": [
+     242,
+     72
+    ]
+   },
+   {
+    "rec": "mc00295_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00296_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 54.82326621923937,
+    "son_minp": 0.01574923371110295,
+    "son_m": 2,
+    "switches": [
+     447,
+     12
+    ]
+   },
+   {
+    "rec": "mc00297_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00298_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.6029173419773097,
+    "son_minp": 0.03461007924434072,
+    "son_m": 2,
+    "switches": [
+     27,
+     3104
+    ]
+   },
+   {
+    "rec": "mc00299_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00300_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.5058824277574283,
+    "son_minp": 0.08354012229362474,
+    "son_m": 2,
+    "switches": [
+     24,
+     2
+    ]
+   },
+   {
+    "rec": "mc00301_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1.1428571428571428,
+    "son_minp": 0.0007060432208560778,
+    "son_m": 2,
+    "switches": [
+     5,
+     34
+    ]
+   },
+   {
+    "rec": "mc00302_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.7734070410241489,
+    "son_minp": 0.09035268240128631,
+    "son_m": 2,
+    "switches": [
+     5,
+     30
+    ]
+   },
+   {
+    "rec": "mc00303_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 4.869565217391305,
+    "son_minp": 0.6287890318447886,
+    "son_m": 2,
+    "switches": [
+     3,
+     22
+    ]
+   },
+   {
+    "rec": "mc00304_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.48204973321252376,
+    "son_minp": 0.0439836477508044,
+    "son_m": 2,
+    "switches": [
+     376,
+     195
+    ]
+   },
+   {
+    "rec": "mc00305_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 4.191601866251944,
+    "son_minp": 0.5411632237617274,
+    "son_m": 2,
+    "switches": [
+     61,
+     3214
+    ]
+   },
+   {
+    "rec": "mc00307_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1984.1999999999998,
+    "son_minp": 1.0,
+    "son_m": 2,
+    "switches": [
+     0,
+     25
+    ]
+   },
+   {
+    "rec": "mc00308_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1121.8333333333333,
+    "son_minp": 0.8085636270817762,
+    "son_m": 2,
+    "switches": [
+     2,
+     8
+    ]
+   },
+   {
+    "rec": "mc00309_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 17.467084639498434,
+    "son_minp": 0.4174157782072849,
+    "son_m": 2,
+    "switches": [
+     27,
+     10
+    ]
+   },
+   {
+    "rec": "mc00310_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 57.67741935483871,
+    "son_minp": 0.963004180490572,
+    "son_m": 2,
+    "switches": [
+     1,
+     154
+    ]
+   },
+   {
+    "rec": "mc00311_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 0.9975077411071671,
+    "son_minp": 0.5359273405188707,
+    "son_m": 2,
+    "switches": [
+     3,
+     32
+    ]
+   },
+   {
+    "rec": "mc00312_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00313_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 7.015117566599361,
+    "son_minp": 3.4437179212178833e-64,
+    "son_m": 2,
+    "switches": [
+     230,
+     750
+    ]
+   },
+   {
+    "rec": "mc00314_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 5.761814744801512,
+    "son_minp": 2.020307867691767e-65,
+    "son_m": 2,
+    "switches": [
+     528,
+     1451
+    ]
+   },
+   {
+    "rec": "mc00315_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00316_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 149.2032520325203,
+    "son_minp": 8.063588612556635e-05,
+    "son_m": 2,
+    "switches": [
+     123,
+     23
+    ]
+   },
+   {
+    "rec": "mc00317_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 22.86318407960199,
+    "son_minp": 0.6535704077649773,
+    "son_m": 2,
+    "switches": [
+     11,
+     15
+    ]
+   },
+   {
+    "rec": "mc00318_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 53.32432432432432,
+    "son_minp": 0.00048519520798746845,
+    "son_m": 2,
+    "switches": [
+     197,
+     110
+    ]
+   },
+   {
+    "rec": "mc00319_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00320_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00321_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 17.402985074626866,
+    "son_minp": 1.6765449446056839e-12,
+    "son_m": 2,
+    "switches": [
+     66,
+     3085
+    ]
+   },
+   {
+    "rec": "mc00322_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00323_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00324_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.6394009062596073,
+    "son_minp": 0.1188579251697692,
+    "son_m": 2,
+    "switches": [
+     127,
+     83
+    ]
+   },
+   {
+    "rec": "mc00325_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00326_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 10.952050296486586,
+    "son_minp": 1.0819308635561413e-41,
+    "son_m": 2,
+    "switches": [
+     62,
+     2461
+    ]
+   },
+   {
+    "rec": "mc00327_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.21863831625071306,
+    "son_minp": 0.07292716684232269,
+    "son_m": 2,
+    "switches": [
+     808,
+     198
+    ]
+   },
+   {
+    "rec": "mc00328_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.4990189401608718,
+    "son_minp": 0.10681753108631804,
+    "son_m": 2,
+    "switches": [
+     57,
+     2027
+    ]
+   },
+   {
+    "rec": "mc00329_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00330_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 7.738219895287958,
+    "son_minp": 9.71944449028262e-10,
+    "son_m": 2,
+    "switches": [
+     155,
+     190
+    ]
+   },
+   {
+    "rec": "mc00331_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 27.25825825825826,
+    "son_minp": 0.5348862137382058,
+    "son_m": 2,
+    "switches": [
+     6,
+     332
+    ]
+   },
+   {
+    "rec": "mc00332_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 58.371134020618555,
+    "son_minp": 0.062078211812861876,
+    "son_m": 2,
+    "switches": [
+     96,
+     45
+    ]
+   },
+   {
+    "rec": "mc00333_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00335_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.8806490545795896,
+    "son_minp": 0.08996030912039524,
+    "son_m": 2,
+    "switches": [
+     152,
+     28
+    ]
+   },
+   {
+    "rec": "mc00336_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.5985207282568581,
+    "son_minp": 0.3080683675205442,
+    "son_m": 2,
+    "switches": [
+     94,
+     686
+    ]
+   },
+   {
+    "rec": "mc00337_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.7285862442841653,
+    "son_minp": 7.028138552360783e-11,
+    "son_m": 2,
+    "switches": [
+     5,
+     1204
+    ]
+   },
+   {
+    "rec": "mc00338_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00339_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00340_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 238.90196078431373,
+    "son_minp": 0.00041524337821742654,
+    "son_m": 6,
+    "switches": [
+     56,
+     4,
+     1
+    ]
+   },
+   {
+    "rec": "mc00342_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9838741987179487,
+    "son_minp": 0.4815497976175702,
+    "son_m": 2,
+    "switches": [
+     1,
+     78
+    ]
+   },
+   {
+    "rec": "mc00343_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 18.364460204885734,
+    "son_minp": 0.8619496705630514,
+    "son_m": 2,
+    "switches": [
+     338,
+     2
+    ]
+   },
+   {
+    "rec": "mc00344_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 116.2566392479436,
+    "son_minp": 2.8041582849770966e-134,
+    "son_m": 6,
+    "switches": [
+     185,
+     172,
+     25
+    ]
+   },
+   {
+    "rec": "mc00345_n05_dataset",
+    "K_found": 3,
+    "n_levels": 3,
+    "guo": 806.1636363636363,
+    "son_minp": 0.00012545487985252498,
+    "son_m": 6,
+    "switches": [
+     55,
+     69,
+     0
+    ]
+   },
+   {
+    "rec": "mc00346_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 3.415479823669041,
+    "son_minp": 0.14523117537314292,
+    "son_m": 2,
+    "switches": [
+     9,
+     42
+    ]
+   },
+   {
+    "rec": "mc00347_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00348_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.530010177213754,
+    "son_minp": 1.1935614211661412e-14,
+    "son_m": 2,
+    "switches": [
+     238,
+     1328
+    ]
+   },
+   {
+    "rec": "mc00349_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 6.025641025641026,
+    "son_minp": 0.4157597879121194,
+    "son_m": 2,
+    "switches": [
+     38,
+     91
+    ]
+   },
+   {
+    "rec": "mc00350_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 378.7029702970297,
+    "son_minp": 0.0006559122801166433,
+    "son_m": 2,
+    "switches": [
+     101,
+     21
+    ]
+   },
+   {
+    "rec": "mc00351_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.22838224245411354,
+    "son_minp": 0.7443654079618895,
+    "son_m": 2,
+    "switches": [
+     41,
+     730
+    ]
+   },
+   {
+    "rec": "mc00352_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00353_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.173540249433106,
+    "son_minp": 0.7061426001867199,
+    "son_m": 2,
+    "switches": [
+     15,
+     65
+    ]
+   },
+   {
+    "rec": "mc00354_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.2577095548490841,
+    "son_minp": 0.13943607882133158,
+    "son_m": 2,
+    "switches": [
+     418,
+     2983
+    ]
+   },
+   {
+    "rec": "mc00355_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 3.333333333333333,
+    "son_minp": 0.9173494192795891,
+    "son_m": 2,
+    "switches": [
+     2,
+     7
+    ]
+   },
+   {
+    "rec": "mc00356_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00357_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 0.9941860465116279,
+    "son_minp": 0.5713599969883623,
+    "son_m": 2,
+    "switches": [
+     90,
+     2
+    ]
+   },
+   {
+    "rec": "mc00358_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 238.25925925925927,
+    "son_minp": 2.952364492205422e-183,
+    "son_m": 6,
+    "switches": [
+     25,
+     824,
+     1226
+    ]
+   },
+   {
+    "rec": "mc00359_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00360_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9740756481087973,
+    "son_minp": 0.20276615417402508,
+    "son_m": 2,
+    "switches": [
+     26,
+     6
+    ]
+   },
+   {
+    "rec": "mc00361_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00362_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 9.569901095963646,
+    "son_minp": 0.00015522036728521005,
+    "son_m": 2,
+    "switches": [
+     1,
+     1470
+    ]
+   },
+   {
+    "rec": "mc00363_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.5948296534581083,
+    "son_minp": 0.15234547320616654,
+    "son_m": 2,
+    "switches": [
+     47,
+     17
+    ]
+   },
+   {
+    "rec": "mc00364_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.6084159742696329,
+    "son_minp": 0.39107293482800026,
+    "son_m": 2,
+    "switches": [
+     48,
+     825
+    ]
+   },
+   {
+    "rec": "mc00365_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 4.136735336693851,
+    "son_minp": 1.2841094227430253e-15,
+    "son_m": 2,
+    "switches": [
+     50,
+     2719
+    ]
+   },
+   {
+    "rec": "mc00366_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.8013871639337378,
+    "son_minp": 0.09871146811559246,
+    "son_m": 2,
+    "switches": [
+     316,
+     13
+    ]
+   },
+   {
+    "rec": "mc00367_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.725361060522638,
+    "son_minp": 0.2092479921798737,
+    "son_m": 2,
+    "switches": [
+     8,
+     1273
+    ]
+   },
+   {
+    "rec": "mc00368_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00369_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 226.58823529411765,
+    "son_minp": 0.007948051464539951,
+    "son_m": 2,
+    "switches": [
+     17,
+     67
+    ]
+   },
+   {
+    "rec": "mc00370_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00371_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00372_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.44090525829614224,
+    "son_minp": 0.1569908763924237,
+    "son_m": 2,
+    "switches": [
+     22,
+     173
+    ]
+   },
+   {
+    "rec": "mc00373_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.6267598614537391,
+    "son_minp": 0.08477585975164043,
+    "son_m": 2,
+    "switches": [
+     49,
+     638
+    ]
+   },
+   {
+    "rec": "mc00374_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9011880614314691,
+    "son_minp": 0.06472189086192065,
+    "son_m": 2,
+    "switches": [
+     8,
+     89
+    ]
+   },
+   {
+    "rec": "mc00375_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00376_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00377_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.6168203198494826,
+    "son_minp": 0.08058895282692977,
+    "son_m": 2,
+    "switches": [
+     23,
+     47
+    ]
+   },
+   {
+    "rec": "mc00378_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 4.992610837438424,
+    "son_minp": 0.16503838551041128,
+    "son_m": 2,
+    "switches": [
+     8,
+     255
+    ]
+   },
+   {
+    "rec": "mc00379_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 3.9704865272023833,
+    "son_minp": 0.18624448829584636,
+    "son_m": 2,
+    "switches": [
+     1815,
+     6
+    ]
+   },
+   {
+    "rec": "mc00380_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 11.730256410256413,
+    "son_minp": 0.9646124087958639,
+    "son_m": 2,
+    "switches": [
+     16,
+     12
+    ]
+   },
+   {
+    "rec": "mc00381_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9526901669758813,
+    "son_minp": 0.00991766110366281,
+    "son_m": 2,
+    "switches": [
+     50,
+     608
+    ]
+   },
+   {
+    "rec": "mc00382_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00383_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 54.425339366515836,
+    "son_minp": 4.0147057932971703e-26,
+    "son_m": 2,
+    "switches": [
+     425,
+     220
+    ]
+   },
+   {
+    "rec": "mc00384_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00385_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00386_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00387_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 5338.666666666667,
+    "son_minp": 1.2044611633690955e-63,
+    "son_m": 2,
+    "switches": [
+     9,
+     83
+    ]
+   },
+   {
+    "rec": "mc00388_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00389_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 3.0,
+    "son_minp": 0.6048973078447213,
+    "son_m": 2,
+    "switches": [
+     4,
+     2202
+    ]
+   },
+   {
+    "rec": "mc00390_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 42.36363636363637,
+    "son_minp": 0.5465155287851788,
+    "son_m": 2,
+    "switches": [
+     69,
+     10
+    ]
+   },
+   {
+    "rec": "mc00391_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 3608.9999999999995,
+    "son_minp": 0.7819613212330198,
+    "son_m": 2,
+    "switches": [
+     3,
+     3
+    ]
+   },
+   {
+    "rec": "mc00392_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00393_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1.6840864215283804,
+    "son_minp": 2.1108819382347448e-13,
+    "son_m": 2,
+    "switches": [
+     955,
+     1102
+    ]
+   },
+   {
+    "rec": "mc00394_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 10.518222222222223,
+    "son_minp": 0.2239599877071589,
+    "son_m": 2,
+    "switches": [
+     3,
+     8
+    ]
+   },
+   {
+    "rec": "mc00395_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 12.533333333333331,
+    "son_minp": 4.067933652418744e-08,
+    "son_m": 2,
+    "switches": [
+     175,
+     14
+    ]
+   },
+   {
+    "rec": "mc00396_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9908936564284612,
+    "son_minp": 0.3140626288608795,
+    "son_m": 2,
+    "switches": [
+     18,
+     4
+    ]
+   },
+   {
+    "rec": "mc00398_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.30284673843285637,
+    "son_minp": 0.5013838840065888,
+    "son_m": 2,
+    "switches": [
+     198,
+     93
+    ]
+   },
+   {
+    "rec": "mc00399_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00400_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 9.669851729818781,
+    "son_minp": 1.8058526950089313e-18,
+    "son_m": 2,
+    "switches": [
+     51,
+     3034
+    ]
+   }
+  ]
+ },
+ "3source": {
+  "n_with_solution": 184,
+  "K_found_hist": {
+   "0": 0,
+   "1": 14,
+   "2": 66,
+   "3": 82,
+   "4": 18,
+   "5": 2,
+   "6": 2,
+   "7": 0,
+   "8": 0
+  },
+  "all_tested": {
+   "n": 170,
+   "guo_d0p5": 0.9235294117647059,
+   "son_bonf": 0.4176470588235294,
+   "zhang_lv": 0.6588235294117647
+  },
+  "K_correct": {
+   "n": 82,
+   "guo_d0p5": 1.0,
+   "son_bonf": 0.524390243902439,
+   "zhang_lv": 0.8536585365853658
+  },
+  "K_correct_min_switch_ge_50": {
+   "n": 16,
+   "guo_d0p5": 1.0,
+   "son_bonf": 0.9375,
+   "zhang_lv": 0.8125
+  },
+  "rows": [
+   {
+    "rec": "mc00401_n05_dataset",
+    "K_found": 4,
+    "n_levels": 9,
+    "guo": 91.36842105263158,
+    "son_minp": 2.019467627584555e-151,
+    "son_m": 12,
+    "switches": [
+     342,
+     18,
+     356,
+     914
+    ]
+   },
+   {
+    "rec": "mc00402_n05_dataset",
+    "K_found": 4,
+    "n_levels": 5,
+    "guo": 258.3958333333333,
+    "son_minp": 0.27364566395970064,
+    "son_m": 12,
+    "switches": [
+     10,
+     0,
+     5,
+     125
+    ]
+   },
+   {
+    "rec": "mc00403_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 487.6666666666667,
+    "son_minp": 0.7645848239265283,
+    "son_m": 2,
+    "switches": [
+     2,
+     18
+    ]
+   },
+   {
+    "rec": "mc00404_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 137.57142857142856,
+    "son_minp": 5.4156071254833154e-17,
+    "son_m": 2,
+    "switches": [
+     5,
+     3029
+    ]
+   },
+   {
+    "rec": "mc00405_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 228.92307692307693,
+    "son_minp": 0.01798962184464263,
+    "son_m": 6,
+    "switches": [
+     37,
+     82,
+     12
+    ]
+   },
+   {
+    "rec": "mc00407_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 272.0,
+    "son_minp": 6.985554811357471e-104,
+    "son_m": 6,
+    "switches": [
+     788,
+     18,
+     598
+    ]
+   },
+   {
+    "rec": "mc00408_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 387.1506849315068,
+    "son_minp": 9.774190656352516e-07,
+    "son_m": 2,
+    "switches": [
+     73,
+     31
+    ]
+   },
+   {
+    "rec": "mc00410_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 452.88888888888886,
+    "son_minp": 9.133078029909437e-169,
+    "son_m": 6,
+    "switches": [
+     8,
+     472,
+     755
+    ]
+   },
+   {
+    "rec": "mc00411_n05_dataset",
+    "K_found": 4,
+    "n_levels": 5,
+    "guo": 9902.199999999999,
+    "son_minp": 0.1941742881197259,
+    "son_m": 12,
+    "switches": [
+     4,
+     250,
+     4,
+     87
+    ]
+   },
+   {
+    "rec": "mc00412_n05_dataset",
+    "K_found": 4,
+    "n_levels": 9,
+    "guo": 29.439284269208287,
+    "son_minp": 1.6276376105707686e-29,
+    "son_m": 12,
+    "switches": [
+     19,
+     715,
+     367,
+     74
+    ]
+   },
+   {
+    "rec": "mc00413_n05_dataset",
+    "K_found": 4,
+    "n_levels": 9,
+    "guo": 3489.5999999999995,
+    "son_minp": 0.0,
+    "son_m": 12,
+    "switches": [
+     4,
+     24,
+     580,
+     1305
+    ]
+   },
+   {
+    "rec": "mc00414_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.46256581393137197,
+    "son_minp": 0.24757350040452136,
+    "son_m": 2,
+    "switches": [
+     384,
+     65
+    ]
+   },
+   {
+    "rec": "mc00415_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 11.644674869640589,
+    "son_minp": 2.224287366556961e-63,
+    "son_m": 2,
+    "switches": [
+     1957,
+     518
+    ]
+   },
+   {
+    "rec": "mc00416_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 45.78787878787879,
+    "son_minp": 0.07422543237469831,
+    "son_m": 6,
+    "switches": [
+     90,
+     314,
+     32
+    ]
+   },
+   {
+    "rec": "mc00417_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9750847809536992,
+    "son_minp": 0.70979736479556,
+    "son_m": 2,
+    "switches": [
+     43,
+     12
+    ]
+   },
+   {
+    "rec": "mc00418_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 5.4522561531449405,
+    "son_minp": 5.529739595496795e-44,
+    "son_m": 6,
+    "switches": [
+     378,
+     354,
+     19
+    ]
+   },
+   {
+    "rec": "mc00419_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 1663.6206896551723,
+    "son_minp": 0.0011245877930692856,
+    "son_m": 6,
+    "switches": [
+     5,
+     29,
+     1409
+    ]
+   },
+   {
+    "rec": "mc00420_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 15.04106337526703,
+    "son_minp": 0.019660491286326992,
+    "son_m": 6,
+    "switches": [
+     699,
+     384,
+     4
+    ]
+   },
+   {
+    "rec": "mc00421_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 21.299088078173824,
+    "son_minp": 5.876346784909225e-29,
+    "son_m": 2,
+    "switches": [
+     241,
+     839
+    ]
+   },
+   {
+    "rec": "mc00422_n05_dataset",
+    "K_found": 4,
+    "n_levels": 7,
+    "guo": 44.24360902255639,
+    "son_minp": 2.1936369720709333e-08,
+    "son_m": 12,
+    "switches": [
+     100,
+     642,
+     654,
+     664
+    ]
+   },
+   {
+    "rec": "mc00423_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 349.6,
+    "son_minp": 0.19324468981468879,
+    "son_m": 6,
+    "switches": [
+     3,
+     114,
+     306
+    ]
+   },
+   {
+    "rec": "mc00424_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00425_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.5557801798828286,
+    "son_minp": 0.5396771342406395,
+    "son_m": 2,
+    "switches": [
+     389,
+     8
+    ]
+   },
+   {
+    "rec": "mc00426_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.5751879699248121,
+    "son_minp": 0.5834299573693176,
+    "son_m": 2,
+    "switches": [
+     22,
+     5
+    ]
+   },
+   {
+    "rec": "mc00427_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 10.003099173553718,
+    "son_minp": 0.04578723718701773,
+    "son_m": 2,
+    "switches": [
+     8,
+     13
+    ]
+   },
+   {
+    "rec": "mc00428_n05_dataset",
+    "K_found": 4,
+    "n_levels": 6,
+    "guo": 1.3895593220338984,
+    "son_minp": 6.171480981816425e-05,
+    "son_m": 12,
+    "switches": [
+     240,
+     0,
+     45,
+     26
+    ]
+   },
+   {
+    "rec": "mc00429_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.9982847886160785,
+    "son_minp": 0.13241163489710858,
+    "son_m": 2,
+    "switches": [
+     10,
+     7
+    ]
+   },
+   {
+    "rec": "mc00430_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 415.02553606851603,
+    "son_minp": 0.0,
+    "son_m": 2,
+    "switches": [
+     1423,
+     1427
+    ]
+   },
+   {
+    "rec": "mc00431_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00432_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.20587620242576343,
+    "son_minp": 0.4221400619319704,
+    "son_m": 2,
+    "switches": [
+     118,
+     1470
+    ]
+   },
+   {
+    "rec": "mc00433_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 0.9970674486803519,
+    "son_minp": 0.24792125888778904,
+    "son_m": 6,
+    "switches": [
+     4,
+     53,
+     2134
+    ]
+   },
+   {
+    "rec": "mc00435_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.851714900199977,
+    "son_minp": 0.47490962631593314,
+    "son_m": 2,
+    "switches": [
+     18,
+     245
+    ]
+   },
+   {
+    "rec": "mc00436_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.40053708474761107,
+    "son_minp": 0.2355126884383768,
+    "son_m": 2,
+    "switches": [
+     474,
+     925
+    ]
+   },
+   {
+    "rec": "mc00437_n05_dataset",
+    "K_found": 4,
+    "n_levels": 8,
+    "guo": 1342.7931034482758,
+    "son_minp": 6.721759966465646e-05,
+    "son_m": 12,
+    "switches": [
+     113,
+     32,
+     29,
+     113
+    ]
+   },
+   {
+    "rec": "mc00438_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.0954092399291553,
+    "son_minp": 0.34279987272582174,
+    "son_m": 2,
+    "switches": [
+     81,
+     28
+    ]
+   },
+   {
+    "rec": "mc00439_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 10.132878362103574,
+    "son_minp": 2.268192936205236e-06,
+    "son_m": 6,
+    "switches": [
+     48,
+     111,
+     53
+    ]
+   },
+   {
+    "rec": "mc00440_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.4890430395711807,
+    "son_minp": 0.1405133652256144,
+    "son_m": 2,
+    "switches": [
+     6,
+     9
+    ]
+   },
+   {
+    "rec": "mc00441_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 0.9543112332531776,
+    "son_minp": 0.31113171740417833,
+    "son_m": 6,
+    "switches": [
+     78,
+     6,
+     41
+    ]
+   },
+   {
+    "rec": "mc00442_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 2.176229213159599,
+    "son_minp": 0.17657874702117918,
+    "son_m": 6,
+    "switches": [
+     45,
+     29,
+     266
+    ]
+   },
+   {
+    "rec": "mc00443_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 7.657219973009447,
+    "son_minp": 0.07237643688444133,
+    "son_m": 2,
+    "switches": [
+     74,
+     38
+    ]
+   },
+   {
+    "rec": "mc00445_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 259.28999999999996,
+    "son_minp": 0.01300704024432782,
+    "son_m": 6,
+    "switches": [
+     15,
+     90,
+     15
+    ]
+   },
+   {
+    "rec": "mc00446_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 3.2123743931353728,
+    "son_minp": 0.0060590072208703905,
+    "son_m": 6,
+    "switches": [
+     19,
+     2679,
+     15
+    ]
+   },
+   {
+    "rec": "mc00447_n05_dataset",
+    "K_found": 4,
+    "n_levels": 6,
+    "guo": 135.81564245810057,
+    "son_minp": 2.866027466057332e-10,
+    "son_m": 12,
+    "switches": [
+     0,
+     5,
+     178,
+     57
+    ]
+   },
+   {
+    "rec": "mc00448_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00449_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 2145.0,
+    "son_minp": 0.005440648076717768,
+    "son_m": 6,
+    "switches": [
+     23,
+     1,
+     2595
+    ]
+   },
+   {
+    "rec": "mc00451_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 129.75577557755776,
+    "son_minp": 7.0212963080451205e-71,
+    "son_m": 6,
+    "switches": [
+     716,
+     329,
+     303
+    ]
+   },
+   {
+    "rec": "mc00452_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00453_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00454_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 12.735448275862069,
+    "son_minp": 0.9659339280753796,
+    "son_m": 2,
+    "switches": [
+     3,
+     24
+    ]
+   },
+   {
+    "rec": "mc00455_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 9.891603053435114,
+    "son_minp": 0.23401968083926292,
+    "son_m": 6,
+    "switches": [
+     6,
+     5,
+     86
+    ]
+   },
+   {
+    "rec": "mc00457_n05_dataset",
+    "K_found": 5,
+    "n_levels": 7,
+    "guo": 291.52071005917156,
+    "son_minp": 3.844227750272941e-55,
+    "son_m": 20,
+    "switches": [
+     144,
+     181,
+     168,
+     631,
+     168
+    ]
+   },
+   {
+    "rec": "mc00458_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 943.5714285714286,
+    "son_minp": 1.006014691628683e-08,
+    "son_m": 6,
+    "switches": [
+     21,
+     1664,
+     73
+    ]
+   },
+   {
+    "rec": "mc00459_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 12.542284866468844,
+    "son_minp": 0.12767846074143754,
+    "son_m": 2,
+    "switches": [
+     2,
+     47
+    ]
+   },
+   {
+    "rec": "mc00460_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 91.34982674982675,
+    "son_minp": 3.3731424866092874e-17,
+    "son_m": 6,
+    "switches": [
+     32,
+     738,
+     33
+    ]
+   },
+   {
+    "rec": "mc00461_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 1.6916194500464168,
+    "son_minp": 6.902125286420014e-124,
+    "son_m": 6,
+    "switches": [
+     965,
+     822,
+     1028
+    ]
+   },
+   {
+    "rec": "mc00463_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.481613508442777,
+    "son_minp": 0.542177781175625,
+    "son_m": 2,
+    "switches": [
+     16,
+     63
+    ]
+   },
+   {
+    "rec": "mc00464_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 102.71666666666665,
+    "son_minp": 0.15578725018724887,
+    "son_m": 6,
+    "switches": [
+     150,
+     4,
+     1
+    ]
+   },
+   {
+    "rec": "mc00465_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.1028571428571432,
+    "son_minp": 0.14828266348722027,
+    "son_m": 2,
+    "switches": [
+     124,
+     22
+    ]
+   },
+   {
+    "rec": "mc00466_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.1301634472511144,
+    "son_minp": 0.15146196992248245,
+    "son_m": 2,
+    "switches": [
+     7,
+     118
+    ]
+   },
+   {
+    "rec": "mc00467_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 1.6666666666666665,
+    "son_minp": 0.22357168069653083,
+    "son_m": 6,
+    "switches": [
+     2,
+     34,
+     480
+    ]
+   },
+   {
+    "rec": "mc00468_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.5912401286926001,
+    "son_minp": 0.6475814275285448,
+    "son_m": 2,
+    "switches": [
+     6,
+     604
+    ]
+   },
+   {
+    "rec": "mc00469_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 2.8675213675213675,
+    "son_minp": 0.24783945818411812,
+    "son_m": 6,
+    "switches": [
+     6,
+     79,
+     330
+    ]
+   },
+   {
+    "rec": "mc00470_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 443.52475247524757,
+    "son_minp": 0.10099220039890203,
+    "son_m": 6,
+    "switches": [
+     17,
+     2,
+     100
+    ]
+   },
+   {
+    "rec": "mc00471_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.3995467619628693,
+    "son_minp": 0.24949527663832416,
+    "son_m": 2,
+    "switches": [
+     55,
+     148
+    ]
+   },
+   {
+    "rec": "mc00472_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 4.095959595959596,
+    "son_minp": 0.297475554758928,
+    "son_m": 6,
+    "switches": [
+     32,
+     18,
+     153
+    ]
+   },
+   {
+    "rec": "mc00473_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 357.8494282959085,
+    "son_minp": 2.557154100674273e-140,
+    "son_m": 6,
+    "switches": [
+     7,
+     25,
+     304
+    ]
+   },
+   {
+    "rec": "mc00474_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.46326619330531815,
+    "son_minp": 0.341651239560994,
+    "son_m": 2,
+    "switches": [
+     85,
+     97
+    ]
+   },
+   {
+    "rec": "mc00475_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 464.66666666666663,
+    "son_minp": 0.6366452810563795,
+    "son_m": 2,
+    "switches": [
+     7,
+     14
+    ]
+   },
+   {
+    "rec": "mc00477_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 4.841269841269841,
+    "son_minp": 0.06315934664262429,
+    "son_m": 2,
+    "switches": [
+     249,
+     38
+    ]
+   },
+   {
+    "rec": "mc00478_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.5963702647012206,
+    "son_minp": 0.3307024646198785,
+    "son_m": 2,
+    "switches": [
+     16,
+     198
+    ]
+   },
+   {
+    "rec": "mc00479_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.507042253521127,
+    "son_minp": 0.192432933879848,
+    "son_m": 2,
+    "switches": [
+     58,
+     544
+    ]
+   },
+   {
+    "rec": "mc00480_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.298641765704584,
+    "son_minp": 0.9430670036106388,
+    "son_m": 2,
+    "switches": [
+     24,
+     96
+    ]
+   },
+   {
+    "rec": "mc00482_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 49885.0,
+    "son_minp": 0.9170500774988896,
+    "son_m": 6,
+    "switches": [
+     1,
+     1,
+     2
+    ]
+   },
+   {
+    "rec": "mc00483_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 179.74074074074076,
+    "son_minp": 1.6673416675866308e-06,
+    "son_m": 6,
+    "switches": [
+     77,
+     20,
+     80
+    ]
+   },
+   {
+    "rec": "mc00484_n05_dataset",
+    "K_found": 4,
+    "n_levels": 9,
+    "guo": 19.770729411764705,
+    "son_minp": 1.588826939891697e-166,
+    "son_m": 12,
+    "switches": [
+     41,
+     55,
+     39,
+     2497
+    ]
+   },
+   {
+    "rec": "mc00485_n05_dataset",
+    "K_found": 6,
+    "n_levels": 8,
+    "guo": 1422.2857142857144,
+    "son_minp": 7.935589423576763e-25,
+    "son_m": 30,
+    "switches": [
+     308,
+     921,
+     190,
+     496,
+     34,
+     34
+    ]
+   },
+   {
+    "rec": "mc00486_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 319.36,
+    "son_minp": 0.0,
+    "son_m": 6,
+    "switches": [
+     24,
+     1831,
+     1835
+    ]
+   },
+   {
+    "rec": "mc00487_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.7032607077274307,
+    "son_minp": 0.23491217946915952,
+    "son_m": 2,
+    "switches": [
+     124,
+     10
+    ]
+   },
+   {
+    "rec": "mc00488_n05_dataset",
+    "K_found": 3,
+    "n_levels": 4,
+    "guo": 307.0,
+    "son_minp": 6.55894778401198e-179,
+    "son_m": 6,
+    "switches": [
+     2,
+     635,
+     3827
+    ]
+   },
+   {
+    "rec": "mc00489_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 1.123118383060635,
+    "son_minp": 2.4525958073154407e-05,
+    "son_m": 6,
+    "switches": [
+     475,
+     274,
+     44
+    ]
+   },
+   {
+    "rec": "mc00490_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.287429378531073,
+    "son_minp": 0.37054059606061995,
+    "son_m": 2,
+    "switches": [
+     15,
+     60
+    ]
+   },
+   {
+    "rec": "mc00491_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 37.699635573676304,
+    "son_minp": 2.130889815394569e-86,
+    "son_m": 2,
+    "switches": [
+     1786,
+     562
+    ]
+   },
+   {
+    "rec": "mc00492_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.3591549295774645,
+    "son_minp": 0.41660939196595503,
+    "son_m": 2,
+    "switches": [
+     16,
+     509
+    ]
+   },
+   {
+    "rec": "mc00493_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 156.1860465116279,
+    "son_minp": 5.440557593120265e-253,
+    "son_m": 6,
+    "switches": [
+     229,
+     41,
+     1129
+    ]
+   },
+   {
+    "rec": "mc00494_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 1.005898400058984,
+    "son_minp": 0.43315662019431633,
+    "son_m": 6,
+    "switches": [
+     62,
+     184,
+     6
+    ]
+   },
+   {
+    "rec": "mc00495_n05_dataset",
+    "K_found": 4,
+    "n_levels": 11,
+    "guo": 18.17571511967309,
+    "son_minp": 1.5852808105811162e-186,
+    "son_m": 12,
+    "switches": [
+     162,
+     195,
+     71,
+     1712
+    ]
+   },
+   {
+    "rec": "mc00496_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.19909038330090967,
+    "son_minp": 0.6417774064482861,
+    "son_m": 2,
+    "switches": [
+     592,
+     184
+    ]
+   },
+   {
+    "rec": "mc00497_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.8363068008539188,
+    "son_minp": 0.518661192099058,
+    "son_m": 2,
+    "switches": [
+     4,
+     114
+    ]
+   },
+   {
+    "rec": "mc00498_n05_dataset",
+    "K_found": 4,
+    "n_levels": 6,
+    "guo": 1248.425,
+    "son_minp": 0.10267520554551143,
+    "son_m": 12,
+    "switches": [
+     4,
+     5,
+     253,
+     24
+    ]
+   },
+   {
+    "rec": "mc00499_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 2514.0,
+    "son_minp": 0.04634775363156349,
+    "son_m": 6,
+    "switches": [
+     5,
+     2,
+     3
+    ]
+   },
+   {
+    "rec": "mc00500_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.7683608475237227,
+    "son_minp": 0.4074891067764428,
+    "son_m": 2,
+    "switches": [
+     19,
+     128
+    ]
+   },
+   {
+    "rec": "mc00501_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 6.482551916077927,
+    "son_minp": 0.3132824614674729,
+    "son_m": 6,
+    "switches": [
+     8,
+     100,
+     5
+    ]
+   },
+   {
+    "rec": "mc00502_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 4.760449642884912,
+    "son_minp": 0.0002859861494130566,
+    "son_m": 6,
+    "switches": [
+     170,
+     570,
+     20
+    ]
+   },
+   {
+    "rec": "mc00503_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 15.869565217391305,
+    "son_minp": 2.290279394146578e-09,
+    "son_m": 6,
+    "switches": [
+     51,
+     22,
+     27
+    ]
+   },
+   {
+    "rec": "mc00504_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 5.823956442831215,
+    "son_minp": 1.888662815058047e-36,
+    "son_m": 6,
+    "switches": [
+     63,
+     550,
+     948
+    ]
+   },
+   {
+    "rec": "mc00505_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 221.29126213592232,
+    "son_minp": 5.527249750846504e-07,
+    "son_m": 6,
+    "switches": [
+     7,
+     42,
+     102
+    ]
+   },
+   {
+    "rec": "mc00506_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 0.6391742433187704,
+    "son_minp": 0.10942025330833413,
+    "son_m": 6,
+    "switches": [
+     102,
+     192,
+     194
+    ]
+   },
+   {
+    "rec": "mc00507_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 2.395918289568962,
+    "son_minp": 0.044508401430526257,
+    "son_m": 6,
+    "switches": [
+     89,
+     34,
+     2297
+    ]
+   },
+   {
+    "rec": "mc00508_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 0.6276521006041872,
+    "son_minp": 0.1855939474771476,
+    "son_m": 6,
+    "switches": [
+     35,
+     319,
+     480
+    ]
+   },
+   {
+    "rec": "mc00509_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 8.799999999999999,
+    "son_minp": 0.4516998005146724,
+    "son_m": 6,
+    "switches": [
+     4,
+     214,
+     31
+    ]
+   },
+   {
+    "rec": "mc00510_n05_dataset",
+    "K_found": 4,
+    "n_levels": 8,
+    "guo": 855.1052631578948,
+    "son_minp": 0.04842691143870491,
+    "son_m": 12,
+    "switches": [
+     56,
+     0,
+     52,
+     226
+    ]
+   },
+   {
+    "rec": "mc00511_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00512_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 206.23924018139815,
+    "son_minp": 0.0,
+    "son_m": 6,
+    "switches": [
+     564,
+     548,
+     11
+    ]
+   },
+   {
+    "rec": "mc00513_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 154.73333333333335,
+    "son_minp": 0.7119515685641957,
+    "son_m": 2,
+    "switches": [
+     14,
+     14
+    ]
+   },
+   {
+    "rec": "mc00515_n05_dataset",
+    "K_found": 5,
+    "n_levels": 7,
+    "guo": 27.4614024749558,
+    "son_minp": 5.163598774431857e-12,
+    "son_m": 20,
+    "switches": [
+     0,
+     294,
+     0,
+     60,
+     182
+    ]
+   },
+   {
+    "rec": "mc00516_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 16.379245283018868,
+    "son_minp": 1.1662144268877858e-17,
+    "son_m": 6,
+    "switches": [
+     9,
+     16,
+     1560
+    ]
+   },
+   {
+    "rec": "mc00517_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 3.780666487983561,
+    "son_minp": 0.17798111098066688,
+    "son_m": 2,
+    "switches": [
+     7,
+     126
+    ]
+   },
+   {
+    "rec": "mc00518_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 13.75776397515528,
+    "son_minp": 0.8833191483862953,
+    "son_m": 2,
+    "switches": [
+     1,
+     482
+    ]
+   },
+   {
+    "rec": "mc00519_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 82.5030181086519,
+    "son_minp": 1.3620046693375558e-19,
+    "son_m": 6,
+    "switches": [
+     496,
+     106,
+     1732
+    ]
+   },
+   {
+    "rec": "mc00520_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.4476030098789754,
+    "son_minp": 0.4312999331491054,
+    "son_m": 2,
+    "switches": [
+     99,
+     737
+    ]
+   },
+   {
+    "rec": "mc00521_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 102.4014598540146,
+    "son_minp": 2.1189583268170566e-06,
+    "son_m": 6,
+    "switches": [
+     53,
+     136,
+     127
+    ]
+   },
+   {
+    "rec": "mc00522_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.2696479543292105,
+    "son_minp": 0.7073079041758954,
+    "son_m": 2,
+    "switches": [
+     41,
+     28
+    ]
+   },
+   {
+    "rec": "mc00523_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 448.756415649979,
+    "son_minp": 9.938677154664778e-147,
+    "son_m": 6,
+    "switches": [
+     7,
+     2912,
+     2911
+    ]
+   },
+   {
+    "rec": "mc00524_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 30.476598549769285,
+    "son_minp": 0.39663699325107005,
+    "son_m": 6,
+    "switches": [
+     32,
+     1,
+     41
+    ]
+   },
+   {
+    "rec": "mc00525_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 582.1796143250689,
+    "son_minp": 1.6752502302974674e-288,
+    "son_m": 6,
+    "switches": [
+     60,
+     2147,
+     2148
+    ]
+   },
+   {
+    "rec": "mc00526_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 102.00000000000001,
+    "son_minp": 0.015904573903306393,
+    "son_m": 2,
+    "switches": [
+     2,
+     961
+    ]
+   },
+   {
+    "rec": "mc00527_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.27529925001776423,
+    "son_minp": 0.4884426111428848,
+    "son_m": 2,
+    "switches": [
+     155,
+     148
+    ]
+   },
+   {
+    "rec": "mc00528_n05_dataset",
+    "K_found": 4,
+    "n_levels": 6,
+    "guo": 28.788732394366196,
+    "son_minp": 7.606137593032865e-43,
+    "son_m": 12,
+    "switches": [
+     496,
+     669,
+     0,
+     474
+    ]
+   },
+   {
+    "rec": "mc00529_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 357.3650793650794,
+    "son_minp": 0.32617110942624283,
+    "son_m": 6,
+    "switches": [
+     63,
+     1,
+     76
+    ]
+   },
+   {
+    "rec": "mc00531_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 4.739666846674698,
+    "son_minp": 0.322168664488364,
+    "son_m": 2,
+    "switches": [
+     8,
+     133
+    ]
+   },
+   {
+    "rec": "mc00532_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 1378.4166666666665,
+    "son_minp": 0.2530484062232628,
+    "son_m": 6,
+    "switches": [
+     2,
+     2,
+     59
+    ]
+   },
+   {
+    "rec": "mc00533_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00534_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 11.85140038642183,
+    "son_minp": 1.2620905355888845e-97,
+    "son_m": 6,
+    "switches": [
+     1079,
+     94,
+     1128
+    ]
+   },
+   {
+    "rec": "mc00535_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.0874254742547422,
+    "son_minp": 0.3832202400730838,
+    "son_m": 2,
+    "switches": [
+     352,
+     18
+    ]
+   },
+   {
+    "rec": "mc00536_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 10.67378640776699,
+    "son_minp": 2.0244668176907174e-77,
+    "son_m": 6,
+    "switches": [
+     3683,
+     514,
+     3581
+    ]
+   },
+   {
+    "rec": "mc00537_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 10.0,
+    "son_minp": 0.06497082440515334,
+    "son_m": 6,
+    "switches": [
+     156,
+     16,
+     1355
+    ]
+   },
+   {
+    "rec": "mc00538_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 29.633496846531184,
+    "son_minp": 9.78866709717839e-158,
+    "son_m": 6,
+    "switches": [
+     1427,
+     1998,
+     64
+    ]
+   },
+   {
+    "rec": "mc00539_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 1809.578947368421,
+    "son_minp": 6.069880000000284e-13,
+    "son_m": 6,
+    "switches": [
+     15,
+     19,
+     157
+    ]
+   },
+   {
+    "rec": "mc00540_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 0.9987341772151899,
+    "son_minp": 0.0438748350047236,
+    "son_m": 6,
+    "switches": [
+     8,
+     4,
+     2
+    ]
+   },
+   {
+    "rec": "mc00541_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 9.510920541337264,
+    "son_minp": 8.108446414316112e-29,
+    "son_m": 6,
+    "switches": [
+     7,
+     730,
+     156
+    ]
+   },
+   {
+    "rec": "mc00542_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00544_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.3108775617446138,
+    "son_minp": 0.5224225378238625,
+    "son_m": 2,
+    "switches": [
+     185,
+     177
+    ]
+   },
+   {
+    "rec": "mc00545_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 2566.4444444444443,
+    "son_minp": 0.031085340635477018,
+    "son_m": 6,
+    "switches": [
+     59,
+     8,
+     2
+    ]
+   },
+   {
+    "rec": "mc00546_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 0.9660362197910872,
+    "son_minp": 0.014316135315949585,
+    "son_m": 6,
+    "switches": [
+     62,
+     21,
+     166
+    ]
+   },
+   {
+    "rec": "mc00547_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 183.55319148936172,
+    "son_minp": 0.6824556662858471,
+    "son_m": 2,
+    "switches": [
+     45,
+     4
+    ]
+   },
+   {
+    "rec": "mc00549_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 62.0,
+    "son_minp": 1.8776150156747233e-13,
+    "son_m": 2,
+    "switches": [
+     6,
+     508
+    ]
+   },
+   {
+    "rec": "mc00550_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 1.890909090909091,
+    "son_minp": 2.690334915935809e-08,
+    "son_m": 6,
+    "switches": [
+     253,
+     47,
+     54
+    ]
+   },
+   {
+    "rec": "mc00551_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 1.118587213891081,
+    "son_minp": 0.16399380701320707,
+    "son_m": 6,
+    "switches": [
+     806,
+     4,
+     32
+    ]
+   },
+   {
+    "rec": "mc00552_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.3420344102968216,
+    "son_minp": 0.9228293050615533,
+    "son_m": 2,
+    "switches": [
+     47,
+     195
+    ]
+   },
+   {
+    "rec": "mc00553_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 2.4923076923076923,
+    "son_minp": 0.03264528924993787,
+    "son_m": 6,
+    "switches": [
+     142,
+     2,
+     32
+    ]
+   },
+   {
+    "rec": "mc00555_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 41.30434782608695,
+    "son_minp": 0.31313572783072435,
+    "son_m": 6,
+    "switches": [
+     78,
+     22,
+     7
+    ]
+   },
+   {
+    "rec": "mc00556_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.7276701414935722,
+    "son_minp": 0.5313197368988652,
+    "son_m": 2,
+    "switches": [
+     69,
+     15
+    ]
+   },
+   {
+    "rec": "mc00557_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 8.03030303030303,
+    "son_minp": 0.22054954830606258,
+    "son_m": 2,
+    "switches": [
+     3,
+     1221
+    ]
+   },
+   {
+    "rec": "mc00558_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 1.4210526315789473,
+    "son_minp": 0.592016865894567,
+    "son_m": 2,
+    "switches": [
+     18,
+     119
+    ]
+   },
+   {
+    "rec": "mc00559_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.7235604295499536,
+    "son_minp": 0.010986893303568996,
+    "son_m": 2,
+    "switches": [
+     45,
+     2602
+    ]
+   },
+   {
+    "rec": "mc00560_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 16.56178660049628,
+    "son_minp": 1.3873189302581737e-76,
+    "son_m": 6,
+    "switches": [
+     1745,
+     2015,
+     1847
+    ]
+   },
+   {
+    "rec": "mc00561_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 2.3803385723420725,
+    "son_minp": 0.15133757774101955,
+    "son_m": 2,
+    "switches": [
+     5,
+     696
+    ]
+   },
+   {
+    "rec": "mc00562_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00563_n05_dataset",
+    "K_found": 4,
+    "n_levels": 7,
+    "guo": 5961.0,
+    "son_minp": 0.580535023899031,
+    "son_m": 12,
+    "switches": [
+     5,
+     0,
+     56,
+     38
+    ]
+   },
+   {
+    "rec": "mc00564_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 46.54545454545455,
+    "son_minp": 3.8288626849291287e-144,
+    "son_m": 6,
+    "switches": [
+     9,
+     878,
+     1160
+    ]
+   },
+   {
+    "rec": "mc00566_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 846.9333333333334,
+    "son_minp": 1.686717589856367e-63,
+    "son_m": 6,
+    "switches": [
+     566,
+     205,
+     44
+    ]
+   },
+   {
+    "rec": "mc00567_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 12.674185463659146,
+    "son_minp": 2.8860588896576604e-39,
+    "son_m": 6,
+    "switches": [
+     398,
+     151,
+     1249
+    ]
+   },
+   {
+    "rec": "mc00568_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 468.66140311301604,
+    "son_minp": 1.7508886982909343e-74,
+    "son_m": 6,
+    "switches": [
+     100,
+     304,
+     545
+    ]
+   },
+   {
+    "rec": "mc00569_n05_dataset",
+    "K_found": 4,
+    "n_levels": 5,
+    "guo": 13.731182795698926,
+    "son_minp": 4.519817766699634e-120,
+    "son_m": 12,
+    "switches": [
+     1208,
+     1824,
+     1075,
+     438
+    ]
+   },
+   {
+    "rec": "mc00570_n05_dataset",
+    "K_found": 6,
+    "n_levels": 5,
+    "guo": 49994.0,
+    "son_minp": 2.1212789263948955e-35,
+    "son_m": 30,
+    "switches": [
+     0,
+     905,
+     1033,
+     795,
+     0,
+     0
+    ]
+   },
+   {
+    "rec": "mc00571_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00572_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 19.881466619239234,
+    "son_minp": 1.723093938322601e-196,
+    "son_m": 6,
+    "switches": [
+     1869,
+     1939,
+     129
+    ]
+   },
+   {
+    "rec": "mc00573_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 753.741935483871,
+    "son_minp": 0.00012845924542927308,
+    "son_m": 2,
+    "switches": [
+     28,
+     30
+    ]
+   },
+   {
+    "rec": "mc00574_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00575_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 899.408163265306,
+    "son_minp": 0.11739934969736157,
+    "son_m": 2,
+    "switches": [
+     49,
+     2
+    ]
+   },
+   {
+    "rec": "mc00576_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 50.987941718305144,
+    "son_minp": 1.3765532163395693e-91,
+    "son_m": 6,
+    "switches": [
+     248,
+     219,
+     328
+    ]
+   },
+   {
+    "rec": "mc00578_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00579_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 0.7572919908337341,
+    "son_minp": 0.022461451875711,
+    "son_m": 6,
+    "switches": [
+     82,
+     37,
+     134
+    ]
+   },
+   {
+    "rec": "mc00580_n05_dataset",
+    "K_found": 4,
+    "n_levels": 6,
+    "guo": 373.88888888888886,
+    "son_minp": 8.135487511546086e-27,
+    "son_m": 12,
+    "switches": [
+     121,
+     7,
+     70,
+     81
+    ]
+   },
+   {
+    "rec": "mc00581_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.44212665232757964,
+    "son_minp": 0.11666250372049672,
+    "son_m": 2,
+    "switches": [
+     103,
+     584
+    ]
+   },
+   {
+    "rec": "mc00582_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 0.9997051965802803,
+    "son_minp": 0.2054788324151588,
+    "son_m": 6,
+    "switches": [
+     2,
+     146,
+     10
+    ]
+   },
+   {
+    "rec": "mc00583_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 17.68,
+    "son_minp": 0.8310243721289133,
+    "son_m": 2,
+    "switches": [
+     1,
+     24
+    ]
+   },
+   {
+    "rec": "mc00584_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 96.33333333333334,
+    "son_minp": 0.04557500185751149,
+    "son_m": 6,
+    "switches": [
+     44,
+     14,
+     2
+    ]
+   },
+   {
+    "rec": "mc00585_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 284.96039603960395,
+    "son_minp": 0.00012571495673939173,
+    "son_m": 6,
+    "switches": [
+     106,
+     9,
+     100
+    ]
+   },
+   {
+    "rec": "mc00586_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 162.36,
+    "son_minp": 0.9736596912069728,
+    "son_m": 2,
+    "switches": [
+     1,
+     24
+    ]
+   },
+   {
+    "rec": "mc00587_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 132.95492957746478,
+    "son_minp": 1.1915805205437759e-11,
+    "son_m": 6,
+    "switches": [
+     354,
+     354,
+     1714
+    ]
+   },
+   {
+    "rec": "mc00588_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 19.943123590899773,
+    "son_minp": 2.3049147126572086e-10,
+    "son_m": 2,
+    "switches": [
+     261,
+     290
+    ]
+   },
+   {
+    "rec": "mc00589_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00590_n05_dataset",
+    "K_found": 1,
+    "n_levels": 2
+   },
+   {
+    "rec": "mc00591_n05_dataset",
+    "K_found": 3,
+    "n_levels": 5,
+    "guo": 15.042060854001534,
+    "son_minp": 0.10374226913988877,
+    "son_m": 6,
+    "switches": [
+     230,
+     26,
+     2
+    ]
+   },
+   {
+    "rec": "mc00592_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 0.5421190626874994,
+    "son_minp": 0.19794361832920815,
+    "son_m": 2,
+    "switches": [
+     72,
+     137
+    ]
+   },
+   {
+    "rec": "mc00593_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 3.289466630930046,
+    "son_minp": 0.21756755557099774,
+    "son_m": 6,
+    "switches": [
+     185,
+     43,
+     171
+    ]
+   },
+   {
+    "rec": "mc00594_n05_dataset",
+    "K_found": 2,
+    "n_levels": 4,
+    "guo": 1.504680504680505,
+    "son_minp": 3.109966355565285e-05,
+    "son_m": 2,
+    "switches": [
+     1,
+     438
+    ]
+   },
+   {
+    "rec": "mc00595_n05_dataset",
+    "K_found": 3,
+    "n_levels": 6,
+    "guo": 251.0,
+    "son_minp": 0.2598767042496075,
+    "son_m": 6,
+    "switches": [
+     11,
+     4,
+     706
+    ]
+   },
+   {
+    "rec": "mc00596_n05_dataset",
+    "K_found": 4,
+    "n_levels": 9,
+    "guo": 3594.2727272727275,
+    "son_minp": 0.05451056875639587,
+    "son_m": 12,
+    "switches": [
+     87,
+     0,
+     11,
+     50
+    ]
+   },
+   {
+    "rec": "mc00597_n05_dataset",
+    "K_found": 3,
+    "n_levels": 8,
+    "guo": 1.685066662367602,
+    "son_minp": 4.286962199812898e-15,
+    "son_m": 6,
+    "switches": [
+     19,
+     108,
+     375
+    ]
+   },
+   {
+    "rec": "mc00598_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 126.96551724137932,
+    "son_minp": 0.9462911149643551,
+    "son_m": 2,
+    "switches": [
+     29,
+     1
+    ]
+   },
+   {
+    "rec": "mc00599_n05_dataset",
+    "K_found": 2,
+    "n_levels": 3,
+    "guo": 527.7647058823529,
+    "son_minp": 0.711781064209143,
+    "son_m": 2,
+    "switches": [
+     1,
+     16
+    ]
+   },
+   {
+    "rec": "mc00600_n05_dataset",
+    "K_found": 3,
+    "n_levels": 7,
+    "guo": 17.120463898241677,
+    "son_minp": 0.5024035994508254,
+    "son_m": 6,
+    "switches": [
+     7,
+     11,
+     95
+    ]
+   }
+  ]
+ }
+}

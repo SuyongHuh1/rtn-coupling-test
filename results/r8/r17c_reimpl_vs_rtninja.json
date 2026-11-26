@@ -1,0 +1,2050 @@
+{
+ "2source": {
+  "n": 120,
+  "agree_median": 0.9997749774977498,
+  "agree_q10": 0.6650158280019706,
+  "frac_agree_ge_0p95": 0.7416666666666667,
+  "same_levels": 0.7416666666666667,
+  "son_fpr_rtninja": 0.3416666666666667,
+  "son_fpr_reimpl": 0.25833333333333336,
+  "guo_fpr_rtninja": 0.8833333333333333,
+  "guo_fpr_reimpl": 0.9166666666666666,
+  "son_same_call": 0.8333333333333334,
+  "rows": [
+   {
+    "rec": "mc00201_n05_dataset",
+    "agree": 0.9898789878987899,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00203_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00205_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00207_n05_dataset",
+    "agree": 0.7393639363936394,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00208_n05_dataset",
+    "agree": 0.5098609860986099,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00209_n05_dataset",
+    "agree": 0.9997799779977998,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00212_n05_dataset",
+    "agree": 0.9999499949995,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00213_n05_dataset",
+    "agree": 0.528092809280928,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00217_n05_dataset",
+    "agree": 0.9999299929993,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00220_n05_dataset",
+    "agree": 0.5416341634163416,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00221_n05_dataset",
+    "agree": 0.9941094109410941,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00222_n05_dataset",
+    "agree": 0.9999199919991999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00226_n05_dataset",
+    "agree": 0.9986698669866987,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00227_n05_dataset",
+    "agree": 0.9998599859985998,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00229_n05_dataset",
+    "agree": 0.9195003400408049,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00230_n05_dataset",
+    "agree": 0.9997099709970997,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00233_n05_dataset",
+    "agree": 0.9994899489948995,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00234_n05_dataset",
+    "agree": 0.9998099809980998,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00235_n05_dataset",
+    "agree": 0.9999499949995,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00238_n05_dataset",
+    "agree": 0.8587258725872587,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00239_n05_dataset",
+    "agree": 0.9998299829982998,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00240_n05_dataset",
+    "agree": 0.9999799979998,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00241_n05_dataset",
+    "agree": 0.9999699969997,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00246_n05_dataset",
+    "agree": 0.9999699969997,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00248_n05_dataset",
+    "agree": 0.9947794779477948,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00249_n05_dataset",
+    "agree": 0.49984998499849986,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00253_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00254_n05_dataset",
+    "agree": 0.7307030703070307,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00257_n05_dataset",
+    "agree": 0.9056305630563056,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00258_n05_dataset",
+    "agree": 0.5241924192419242,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00262_n05_dataset",
+    "agree": 0.9973297329732973,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": false,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00263_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00264_n05_dataset",
+    "agree": 0.9998899889988999,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00265_n05_dataset",
+    "agree": 0.8920592059205921,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00266_n05_dataset",
+    "agree": 0.6844984498449845,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00267_n05_dataset",
+    "agree": 0.663209585150218,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00268_n05_dataset",
+    "agree": 0.9991499149914992,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00270_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00271_n05_dataset",
+    "agree": 0.9997699769976998,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00272_n05_dataset",
+    "agree": 0.9642364236423643,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00275_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00277_n05_dataset",
+    "agree": 0.9753075307530753,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": false,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00278_n05_dataset",
+    "agree": 0.9985298235788295,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00279_n05_dataset",
+    "agree": 0.8235788294595351,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00280_n05_dataset",
+    "agree": 0.9999899989999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00281_n05_dataset",
+    "agree": 0.9998499849984999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00283_n05_dataset",
+    "agree": 0.9999499949995,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00284_n05_dataset",
+    "agree": 0.9969196919691969,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00285_n05_dataset",
+    "agree": 0.9999899989999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00286_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00290_n05_dataset",
+    "agree": 0.998089808980898,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00291_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00294_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00296_n05_dataset",
+    "agree": 0.7504050405040504,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00298_n05_dataset",
+    "agree": 0.9995199519951995,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00300_n05_dataset",
+    "agree": 0.9999599959996,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00301_n05_dataset",
+    "agree": 0.9998299829982998,
+    "lev_rtninja": 3,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00302_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00303_n05_dataset",
+    "agree": 0.9996999639956795,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00304_n05_dataset",
+    "agree": 0.8810957314877785,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": false,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00305_n05_dataset",
+    "agree": 0.6652165216521653,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00307_n05_dataset",
+    "agree": 0.6096109610961096,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00308_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00309_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00310_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00311_n05_dataset",
+    "agree": 0.9999199919991999,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00313_n05_dataset",
+    "agree": 0.9884588458845884,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00314_n05_dataset",
+    "agree": 0.9641664166416641,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00316_n05_dataset",
+    "agree": 0.8152315231523153,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00317_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00318_n05_dataset",
+    "agree": 0.9397039703970397,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00321_n05_dataset",
+    "agree": 0.6481748174817482,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00324_n05_dataset",
+    "agree": 0.9999899989999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00326_n05_dataset",
+    "agree": 0.899307916950034,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00327_n05_dataset",
+    "agree": 0.9998199819981998,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00328_n05_dataset",
+    "agree": 0.9999899989999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00330_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00331_n05_dataset",
+    "agree": 0.9999699969997,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00332_n05_dataset",
+    "agree": 0.9420942094209421,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00335_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00336_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00337_n05_dataset",
+    "agree": 0.998049804980498,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00342_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00343_n05_dataset",
+    "agree": 0.9971097109710971,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00346_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00348_n05_dataset",
+    "agree": 0.9307530753075307,
+    "lev_rtninja": 4,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00349_n05_dataset",
+    "agree": 0.9946893627235268,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00350_n05_dataset",
+    "agree": 0.6164516451645164,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00351_n05_dataset",
+    "agree": 0.9998699869986999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00353_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00354_n05_dataset",
+    "agree": 0.6317458094971397,
+    "lev_rtninja": 4,
+    "lev_reimpl": 2,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00355_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00357_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00360_n05_dataset",
+    "agree": 0.9999299929993,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00362_n05_dataset",
+    "agree": 0.976027602760276,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00363_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00364_n05_dataset",
+    "agree": 0.9999799979998,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00365_n05_dataset",
+    "agree": 0.8515651565156516,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00366_n05_dataset",
+    "agree": 0.9996499649964996,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00367_n05_dataset",
+    "agree": 0.9998499849984999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00369_n05_dataset",
+    "agree": 0.9613061306130614,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00372_n05_dataset",
+    "agree": 0.9998699869986999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00373_n05_dataset",
+    "agree": 0.9999099909990999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00374_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00377_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00378_n05_dataset",
+    "agree": 0.9999799979998,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00379_n05_dataset",
+    "agree": 0.9937093709370937,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00380_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00381_n05_dataset",
+    "agree": 0.5490958915069808,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00383_n05_dataset",
+    "agree": 0.9985198519851985,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00387_n05_dataset",
+    "agree": 0.5045104510451045,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00389_n05_dataset",
+    "agree": 0.9973097309730973,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00390_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00391_n05_dataset",
+    "agree": 0.9999399939993999,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00393_n05_dataset",
+    "agree": 0.8003800380038004,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00394_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00395_n05_dataset",
+    "agree": 0.997979797979798,
+    "lev_rtninja": 3,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00396_n05_dataset",
+    "agree": 0.9994299429942994,
+    "lev_rtninja": 4,
+    "lev_reimpl": 3,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00398_n05_dataset",
+    "agree": 0.9999699969997,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": false,
+    "guo_reimpl": false
+   },
+   {
+    "rec": "mc00400_n05_dataset",
+    "agree": 0.6744074407440744,
+    "lev_rtninja": 3,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   }
+  ]
+ },
+ "3source": {
+  "n": 82,
+  "agree_median": 0.9647131379804648,
+  "agree_q10": 0.666022602260226,
+  "frac_agree_ge_0p95": 0.5365853658536586,
+  "same_levels": 0.5365853658536586,
+  "son_fpr_rtninja": 0.524390243902439,
+  "son_fpr_reimpl": 0.43902439024390244,
+  "guo_fpr_rtninja": 1.0,
+  "guo_fpr_reimpl": 1.0,
+  "son_same_call": 0.6463414634146342,
+  "rows": [
+   {
+    "rec": "mc00405_n05_dataset",
+    "agree": 0.9997866453311998,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00407_n05_dataset",
+    "agree": 0.9374404107077374,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00410_n05_dataset",
+    "agree": 0.6887822115544888,
+    "lev_rtninja": 5,
+    "lev_reimpl": 7,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00416_n05_dataset",
+    "agree": 0.9793979397939794,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00418_n05_dataset",
+    "agree": 0.9999399939993999,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00419_n05_dataset",
+    "agree": 0.6778011134446777,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00420_n05_dataset",
+    "agree": 0.6656398973230656,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00423_n05_dataset",
+    "agree": 0.9535020168683535,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00433_n05_dataset",
+    "agree": 0.9998666533319999,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00439_n05_dataset",
+    "agree": 0.8752875287528753,
+    "lev_rtninja": 7,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00441_n05_dataset",
+    "agree": 0.9999866653332,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00442_n05_dataset",
+    "agree": 0.9999866653332,
+    "lev_rtninja": 8,
+    "lev_reimpl": 8,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00445_n05_dataset",
+    "agree": 0.9976664333099977,
+    "lev_rtninja": 7,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00446_n05_dataset",
+    "agree": 0.6657199053238657,
+    "lev_rtninja": 8,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00449_n05_dataset",
+    "agree": 0.7398873220655399,
+    "lev_rtninja": 5,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00451_n05_dataset",
+    "agree": 0.9288395506217288,
+    "lev_rtninja": 6,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00455_n05_dataset",
+    "agree": 0.9999933326666,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00458_n05_dataset",
+    "agree": 0.6024402440244024,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00460_n05_dataset",
+    "agree": 0.672000533386672,
+    "lev_rtninja": 7,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00461_n05_dataset",
+    "agree": 0.6873954062072873,
+    "lev_rtninja": 8,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00464_n05_dataset",
+    "agree": 0.6672467246724673,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00467_n05_dataset",
+    "agree": 0.9983598359835983,
+    "lev_rtninja": 6,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00469_n05_dataset",
+    "agree": 0.9999733306663999,
+    "lev_rtninja": 8,
+    "lev_reimpl": 8,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00470_n05_dataset",
+    "agree": 0.6330566389972331,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00472_n05_dataset",
+    "agree": 0.9999733306663999,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00473_n05_dataset",
+    "agree": 0.9913924725805914,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00482_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00483_n05_dataset",
+    "agree": 0.9981198119811981,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00486_n05_dataset",
+    "agree": 0.8193285995266193,
+    "lev_rtninja": 6,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00488_n05_dataset",
+    "agree": 0.9776310964429776,
+    "lev_rtninja": 4,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00489_n05_dataset",
+    "agree": 0.914004733806714,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00493_n05_dataset",
+    "agree": 0.9318198486515318,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00494_n05_dataset",
+    "agree": 0.9957529086241957,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00499_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00501_n05_dataset",
+    "agree": 0.9999866653332,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00502_n05_dataset",
+    "agree": 0.9996932965289168,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00503_n05_dataset",
+    "agree": 0.9993265993265993,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00504_n05_dataset",
+    "agree": 0.9854852151881854,
+    "lev_rtninja": 7,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00505_n05_dataset",
+    "agree": 0.9658632529919658,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00506_n05_dataset",
+    "agree": 0.9999466613328,
+    "lev_rtninja": 8,
+    "lev_reimpl": 8,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00507_n05_dataset",
+    "agree": 0.9575890922425576,
+    "lev_rtninja": 8,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00508_n05_dataset",
+    "agree": 0.9957062372903958,
+    "lev_rtninja": 8,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00509_n05_dataset",
+    "agree": 0.6952495249524953,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00512_n05_dataset",
+    "agree": 0.9772377237723773,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00516_n05_dataset",
+    "agree": 0.9635630229689636,
+    "lev_rtninja": 7,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00519_n05_dataset",
+    "agree": 0.6216221622162216,
+    "lev_rtninja": 5,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00521_n05_dataset",
+    "agree": 0.7124912491249125,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00523_n05_dataset",
+    "agree": 0.6972563923058973,
+    "lev_rtninja": 7,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00524_n05_dataset",
+    "agree": 0.6711871187118712,
+    "lev_rtninja": 5,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00525_n05_dataset",
+    "agree": 0.6658865886588659,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00529_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00532_n05_dataset",
+    "agree": 0.9999266593325999,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00534_n05_dataset",
+    "agree": 0.9331733173317331,
+    "lev_rtninja": 6,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00536_n05_dataset",
+    "agree": 0.873033970063673,
+    "lev_rtninja": 5,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00537_n05_dataset",
+    "agree": 0.701070107010701,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00538_n05_dataset",
+    "agree": 0.651091775844251,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00539_n05_dataset",
+    "agree": 0.8967096709670968,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00540_n05_dataset",
+    "agree": 1.0,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00541_n05_dataset",
+    "agree": 0.9442877621095442,
+    "lev_rtninja": 8,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00545_n05_dataset",
+    "agree": 0.6686601993532687,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00546_n05_dataset",
+    "agree": 0.9975197519751975,
+    "lev_rtninja": 7,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00550_n05_dataset",
+    "agree": 0.9986732006533987,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00551_n05_dataset",
+    "agree": 0.9993265858569695,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00553_n05_dataset",
+    "agree": 0.9999866653332,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00555_n05_dataset",
+    "agree": 0.9999933326666,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00560_n05_dataset",
+    "agree": 0.8096038191249617,
+    "lev_rtninja": 6,
+    "lev_reimpl": 3,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00564_n05_dataset",
+    "agree": 0.8181018101810181,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00566_n05_dataset",
+    "agree": 0.901016768343501,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00567_n05_dataset",
+    "agree": 0.9265593225989266,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00568_n05_dataset",
+    "agree": 0.7513884721805514,
+    "lev_rtninja": 6,
+    "lev_reimpl": 5,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00572_n05_dataset",
+    "agree": 0.34576791012434577,
+    "lev_rtninja": 5,
+    "lev_reimpl": 2,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00576_n05_dataset",
+    "agree": 0.9816314964829816,
+    "lev_rtninja": 8,
+    "lev_reimpl": 6,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00579_n05_dataset",
+    "agree": 0.9999933326666,
+    "lev_rtninja": 8,
+    "lev_reimpl": 8,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00582_n05_dataset",
+    "agree": 0.999966663333,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00584_n05_dataset",
+    "agree": 0.999933326666,
+    "lev_rtninja": 6,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00585_n05_dataset",
+    "agree": 0.858919225255859,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00587_n05_dataset",
+    "agree": 0.548988232156549,
+    "lev_rtninja": 5,
+    "lev_reimpl": 4,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00591_n05_dataset",
+    "agree": 0.9998066473313998,
+    "lev_rtninja": 5,
+    "lev_reimpl": 5,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00593_n05_dataset",
+    "agree": 0.9998066473313998,
+    "lev_rtninja": 8,
+    "lev_reimpl": 8,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00595_n05_dataset",
+    "agree": 0.9913524685801913,
+    "lev_rtninja": 6,
+    "lev_reimpl": 6,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00597_n05_dataset",
+    "agree": 0.8328899556622329,
+    "lev_rtninja": 8,
+    "lev_reimpl": 8,
+    "son_rtninja": true,
+    "son_reimpl": true,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   },
+   {
+    "rec": "mc00600_n05_dataset",
+    "agree": 0.9999399939993999,
+    "lev_rtninja": 7,
+    "lev_reimpl": 7,
+    "son_rtninja": false,
+    "son_reimpl": false,
+    "guo_rtninja": true,
+    "guo_reimpl": true
+   }
+  ]
+ }
+}
