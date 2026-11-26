@@ -1,4 +1,4 @@
-"""R39a (review): which fit-observable properties single out three-trap calibrated false positives?
+"""R39a: which fit-observable properties single out three-trap calibrated false positives?
 Refits every three-trap record of the B = 99 calibration runs (200 independent: exp + exp_new; 100 coupled)
 with the paper pipeline and stores step-to-noise, level spacing, step similarity, occupancy, dwell ratio and
 AR(1) noise of the J = 0 fit.  Summary (Mann-Whitney, false positives vs other nulls) in main().

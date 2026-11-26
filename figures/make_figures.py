@@ -203,7 +203,7 @@ def fig5():
 
 
 def fig_null():
-    """LH_cond_Sgate: oracle-start versus same-analysis nulls (v14 Fig. 4, column width)."""
+    """LH_cond_Sgate: oracle-start versus same-analysis nulls (column width)."""
     fig, b = plt.subplots(figsize=(CW, 2.3))
     obs = {6: [69.3, 105.7, 191.0], 8: [168.2, 32.4, 65.8]}
     for j, (vi, V) in enumerate(((6, "0.151 V"), (8, "0.152 V"))):

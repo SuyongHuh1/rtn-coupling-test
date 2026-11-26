@@ -1,4 +1,4 @@
-"""R44 (review): power of the three-trap replication rule (checklist step 5, Table II row "3 traps, replicated").
+"""R44: power of the three-trap replication rule (checklist step 5, Table II row "3 traps, replicated").
 
 The stored coupled set (records.npz) was simulated before the last simulator change and cannot be regenerated,
 so a fresh coupled set is used: the 100 coupled three-trap partners of the exp_new independent records

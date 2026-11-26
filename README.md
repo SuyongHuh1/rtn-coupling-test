@@ -65,7 +65,7 @@ All numbers in the paper come from one pipeline version: `J` only (`RTN_JOINT=0`
 | Sec. IV — calibrated power and checklist yield | `r8_calib.py coupled 100 99 W --r9` (`RTN_TAG=_B99`), `white_coupled 50 30 W --r9` | `r8_calib_coupled_r9_ms3_B99.json`, `r8_calib_white_coupled_r9_ms3.json` (fields `p_r8`, `dwell_min`, `trans_min`) |
 | Sec. IV, Fig. 4(b) — calibrated FPR, 200 records per K | `r8_calib.py exp 100 99 W --r9` and `exp_new 100 99 W --r9` (`RTN_TAG=_B99`) | `r8_calib_exp_r9_ms3_B99.json`, `r8_calib_exp_new_r9_ms3_B99.json` |
 | Sec. IV — residual-bootstrap block length | `RTN_BLOCK=50|1000 RTN_TAG=_L50|_L1000 r8_calib.py exp 50 30 W --r9` | `r8_calib_exp_r9_ms3_L50.json`, `_L1000.json` |
-| Sec. IV — positive control on real noise | `r38_semisynth.py 24 30 W` (`RTN_CT=1`, `RTN_TAG=_ct`) | `r38_semisynth_ct.json` (`_segstart`: earlier construction, superseded) |
+| Sec. IV — positive control on real noise | `r38_semisynth.py 24 30 W` (`RTN_CT=1`, `RTN_TAG=_ct`) | `r38_semisynth_ct.json` (`_segstart`: alternative construction, not used) |
 | Sec. IV — replication (step 5): FPR and replicated power | `r40_replication.py`, `r44_rep_power.py` | `r40_replication.json`, `r44_rep_power.json` |
 | Sec. IV — effective coupling of the semi-synthetic records | `r41_semisynth_check.py` | `r41_semisynth_check.json` |
 | Sec. IV / guideline 1 — boxcar integration and dwell length | `r42_boxcar_dwell.py` | `r42_boxcar_dwell.json` |

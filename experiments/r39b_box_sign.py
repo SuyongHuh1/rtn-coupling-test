@@ -1,4 +1,4 @@
-"""R39b (review): does boxcar integration make attractive coupling (J < 0) harder to detect?
+"""R39b: does boxcar integration make attractive coupling (J < 0) harder to detect?
 100 two-trap pairs (1/f, seed 471) generated twice, with and without 4x boxcar averaging (identical traps and
 noise); paper statistic Lambda on each; power at the threshold matched to 5% of the independent partners,
 split by the sign of J.

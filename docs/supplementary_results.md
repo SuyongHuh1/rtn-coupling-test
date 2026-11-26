@@ -5,12 +5,12 @@ result files named in brackets (`results/r8/` unless stated). Measured imec RTNi
 redistributed (CC BY-NC-ND); only derived per-record statistics are in this repository.
 
 ## S1. Published procedures
-- **Rule FPR by condition** (former Fig. 1). The decision rules call 9–100 % of independent simulated
+- **Rule FPR by condition**. The decision rules call 9–100 % of independent simulated
   records and 7.5–95 % of real-noise controls coupled. Only the conditional-rate test is near nominal on
   real noise (0.075). [r10_baselines_*, r19_albrecht_*, r19c_son_*, r12_realneg_ms3, r19b_albrecht_realneg]
-- **Conditional rate over all trap pairs** (former Table I row): AUC 0.75–0.88, power at 5 % FPR
+- **Conditional rate over all trap pairs**: AUC 0.75–0.88, power at 5 % FPR
   0.24–0.46, AUC on the true state path 0.95.
-- **Our LRT with the asymptotic χ² threshold** (former Table I row): FPR 0.19–0.41 in simulation,
+- **Our LRT with the asymptotic χ² threshold**: FPR 0.19–0.41 in simulation,
   0.075 on real-noise controls.
 - **Fed our decomposition**, the published statistics reach AUC 0.77–0.94 (ours 0.89–0.95). The evidence
   ratio was designed for ≈2.5×10⁵-sample traces with drift removal.
@@ -87,7 +87,7 @@ redistributed (CC BY-NC-ND); only derived per-record statistics are in this repo
 ## S4. Public data
 - **Gate_P 0.567 V:**
   - Parametric-bootstrap s.e. 0.026 (19 records at the fitted parameters).
-  - Power curve at the fitted parameters: former Fig. 5(a). [results/nichol/Gate_P_v8_K2_power.json]
+  - Power curve at the fitted parameters. [results/nichol/Gate_P_v8_K2_power.json]
 - **Gate_P others:**
   - 0.5655 and 0.566 V are undecidable (emission dwell 0.55 samples plus boxcar).
   - The other biases from 0.565 to 0.568 V are not testable: the weak trap has step-to-noise 1.0–1.4
@@ -97,7 +97,7 @@ redistributed (CC BY-NC-ND); only derived per-record statistics are in this repo
 - **LH 0.152 V:**
   - The drive fit sits at its bound (|γ| = 8 kT).
   - Same-analysis nulls reach 589, and the coupling p is 0.14 (20 nulls).
-- **LH 0.151 V (v13e discussion, shortened in v14):**
+- **LH 0.151 V (details):**
   - The coupling LRT inside the drive model is 69, above all 99 same-analysis nulls (maximum 14.9).
   - Blocks 10–29 replicate pair and sign (LRT 106, 191) but were not fully independent of the selection.
   - J₁₂ > 0 encodes the near-absence of joint occupancy (stationary probability < 10⁻⁴). The likelihood

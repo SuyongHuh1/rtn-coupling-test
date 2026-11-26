@@ -1,4 +1,4 @@
-"""R40 (review): false-positive rate of the three-trap replication rule (checklist step 5).
+"""R40: false-positive rate of the three-trap replication rule (checklist step 5).
 
 For every three-trap null record of the exp_new set (r8_oracle.make(100, seed=291), the 1/f independent
 records calibrated with B = 99 in r8_calib_exp_new_r9_ms3_B99.json) a replicate is generated with the SAME

@@ -1,4 +1,4 @@
-"""R41 (review): does the semi-synthetic construction (R38, continuous-time) impose the intended coupling?
+"""R41: does the semi-synthetic construction (R38, continuous-time) impose the intended coupling?
 Rebuilds the R38 records with the same seeds while recording B's state for every sample, then measures B's
 capture and emission rates separately while A is empty and while A is occupied (transitions / time):
     J_eff = ln(c_B|A=0 / c_B|A=1) + ln(e_B|A=1 / e_B|A=0)        (= J for phi = 0.5, eq. 1)

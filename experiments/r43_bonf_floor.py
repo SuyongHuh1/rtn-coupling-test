@@ -1,4 +1,4 @@
-"""R43 (review): raise B for the two measured records whose calibrated p sits at the floor 1/(B+1), so the
+"""R43: raise B for the two measured records whose calibrated p sits at the floor 1/(B+1), so the
 floor lies below the Bonferroni level alpha/m of checklist step 3 (m = biases scanned on that device).
 
     lh    LH_cond_Sgate 0.151 V (v6, K = 3), same-analysis drive nulls of r14_null_cons; m = 9 -> B = 399

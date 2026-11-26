@@ -1,4 +1,4 @@
-"""R42 (review): calibrated FPR versus the ratio of integration time to dwell time (measurement guideline 1).
+"""R42: calibrated FPR versus the ratio of integration time to dwell time (measurement guideline 1).
 
 Independent two-trap records (J = 0) are simulated from exponential dwell times with the fast trap's mean dwell
 d samples (both states, occupancy 0.5) and the slow trap's 3d; step heights 1.0 and 0.6, white noise

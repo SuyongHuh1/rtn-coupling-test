@@ -1,4 +1,4 @@
-"""R45 (review): does fixing phi = 0.5 (and symmetric J) bias detection?  Power of the calibrated three-trap
+"""R45: does fixing phi = 0.5 (and symmetric J) bias detection?  Power of the calibrated three-trap
 test on the R44 coupled set (100 records, 1/f) split by the simulator's true phi (drawn in [0.2, 0.8]) and by
 the sign of the coupling.  phi is not stored in the labels, so the R44 records are regenerated with make_batch
 patched to also return phi (same random stream; the records are checked to be identical).
